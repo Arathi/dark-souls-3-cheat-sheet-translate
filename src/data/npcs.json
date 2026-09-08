@@ -1,0 +1,344 @@
+[
+  {
+    "id": "npc-ds3-181",
+    "chinese": "彼海姆的欧贝克",
+    "japanese": "ヴィンハイムのオーベック",
+    "english": "Orbeck of Vinheim"
+  },
+  {
+    "id": "npc-ds3-182",
+    "chinese": "大沼的柯弭库斯",
+    "japanese": "大沼のコルニクス",
+    "english": "Cornyx of the Great Swamp"
+  },
+  {
+    "id": "npc-ds3-183",
+    "chinese": "卡利姆的伊莉娜",
+    "japanese": "カリムのイリーナ",
+    "english": "Irina of Carim"
+  },
+  {
+    "id": "npc-ds3-184",
+    "chinese": "卡露拉",
+    "japanese": "カルラ",
+    "english": "Karla"
+  },
+  {
+    "id": "npc-ds3-185",
+    "chinese": "祭祀场侍女",
+    "japanese": "祭祀場の侍女",
+    "english": "Shrine Handmaid"
+  },
+  {
+    "id": "npc-ds3-186",
+    "chinese": "不死聚落的葛雷瑞特",
+    "japanese": "不死街のグレイラット",
+    "english": "Greirat of the Undead Settlement"
+  },
+  {
+    "id": "npc-ds3-187",
+    "chinese": "隆道尔的尤莉雅",
+    "japanese": "ロンドールのユリア",
+    "english": "Yuria of Londor"
+  },
+  {
+    "id": "npc-ds3-188",
+    "chinese": "隆道尔的尤艾尔",
+    "japanese": "ロンドールのヨエル",
+    "english": "Yoel of Londor"
+  },
+  {
+    "id": "npc-ds3-189",
+    "chinese": "不屈不挠的帕奇",
+    "japanese": "不屈のパッチ",
+    "english": "Unbreakable Patches"
+  },
+  {
+    "id": "npc-ds3-190",
+    "chinese": "背盖子的老妪",
+    "japanese": "蓋かぶりの老女",
+    "english": "Stone-humped Hag"
+  },
+  {
+    "id": "npc-ds3-191",
+    "chinese": "库尔兰的鲁道斯",
+    "japanese": "クールラントのルドレス",
+    "english": "Ludleth of Courland"
+  },
+  {
+    "id": "npc-ds3-192",
+    "chinese": "“重生之母”罗莎莉亚",
+    "japanese": "生まれ変わりの母、ロザリア",
+    "english": "Rosaria, Mother of Rebirth"
+  },
+  {
+    "id": "npc-ds3-193",
+    "chinese": "骑士团团长幽儿希卡",
+    "japanese": "騎士団総長ヨルシカ",
+    "english": "Company Captain Yorshka"
+  },
+  {
+    "id": "npc-ds3-194",
+    "chinese": "大主教麦克唐纳",
+    "japanese": "大主教マクダネル",
+    "english": "Archdeacon McDonnell"
+  },
+  {
+    "id": "npc-ds3-195",
+    "chinese": "法兰老狼",
+    "japanese": "ファランの老狼",
+    "english": "Old Wolf of Farron"
+  },
+  {
+    "id": "npc-ds3-196",
+    "chinese": "太阳祭坛",
+    "japanese": "太陽の祭壇",
+    "english": "Altar of Sunlight"
+  },
+  {
+    "id": "npc-ds3-197",
+    "chinese": "牺牲祭坛",
+    "japanese": "犠牲の祭壇",
+    "english": "Sacrificial Altar"
+  },
+  {
+    "id": "npc-ds3-198",
+    "chinese": "圣枪石碑",
+    "japanese": "聖槍の碑",
+    "english": "Divine Spear Monument"
+  },
+  {
+    "id": "npc-ds3-199",
+    "chinese": "鸟巢女孩",
+    "japanese": "巣の娘",
+    "english": "Nestling"
+  },
+  {
+    "id": "npc-ds3-200",
+    "chinese": "主祭艾玛",
+    "japanese": "祭儀長エンマ",
+    "english": "High Priestess Emma"
+  },
+  {
+    "id": "npc-ds3-201",
+    "chinese": "沉默骑士霍拉斯",
+    "japanese": "沈黙の騎士ホレイス",
+    "english": "Horace the Hushed"
+  },
+  {
+    "id": "npc-ds3-202",
+    "chinese": "铁匠安德烈",
+    "japanese": "鍛冶屋アンドレイ",
+    "english": "Blacksmith Andre"
+  },
+  {
+    "id": "npc-ds3-203",
+    "chinese": "防火女",
+    "japanese": "火防女",
+    "english": "Fire Keeper"
+  },
+  {
+    "id": "npc-ds3-204",
+    "chinese": "亚斯特拉的安里",
+    "japanese": "アストラのアンリ",
+    "english": "Anri of Astora"
+  },
+  {
+    "id": "npc-ds3-205",
+    "chinese": "卡塔利纳的杰克巴尔多",
+    "japanese": "カタリナのジークバルト",
+    "english": "Siegward of Catarina"
+  },
+  {
+    "id": "npc-ds3-206",
+    "chinese": "脱逃者霍克伍德",
+    "japanese": "脱走者ホークウッド",
+    "english": "Hawkwood the Deserter"
+  },
+  {
+    "id": "npc-ds3-207",
+    "chinese": "无名指的李奥纳德",
+    "japanese": "薬指のレオナール",
+    "english": "Ringfinger Leonhard"
+  },
+  {
+    "id": "npc-ds3-208",
+    "chinese": "卡利姆的伊果",
+    "japanese": "カリムのイーゴン",
+    "english": "Eygon of Carim"
+  },
+  {
+    "id": "npc-ds3-209",
+    "chinese": "薄暮之国的希里丝",
+    "japanese": "薄暮の国のシーリス",
+    "english": "Sirris of the Sunless Realms"
+  },
+  {
+    "id": "npc-ds3-210",
+    "chinese": "圣骑士佛多林克",
+    "japanese": "聖騎士フォドリック",
+    "english": "Holy Knight Hodrick"
+  },
+  {
+    "id": "npc-ds3-211",
+    "chinese": "隆道尔的老妇",
+    "japanese": "ロンドールの老婆",
+    "english": "Old Woman of Londor"
+  },
+  {
+    "id": "npc-ds3-212",
+    "chinese": "巨人奴隶",
+    "japanese": "巨人奴隷",
+    "english": "Giant of the Undead Settlement"
+  },
+  {
+    "id": "npc-ds3-213",
+    "chinese": "奴隶骑士盖尔",
+    "japanese": "奴隷騎士ゲール",
+    "english": "Slave Knight Gael"
+  },
+  {
+    "id": "npc-ds3-214",
+    "chinese": "鸦村的禁忌者",
+    "japanese": "鴉村の忌み人",
+    "english": "Forlorn Corvian Settler"
+  },
+  {
+    "id": "npc-ds3-215",
+    "chinese": "芙莉德修女",
+    "japanese": "修道女フリーデ",
+    "english": "Sister Friede"
+  },
+  {
+    "id": "npc-ds3-216",
+    "chinese": "骑士维赫勒",
+    "japanese": "騎士ヴィルヘルム",
+    "english": "Sir Vilhelm"
+  },
+  {
+    "id": "npc-ds3-217",
+    "chinese": "“费莲诺尔的骑士”希拉",
+    "japanese": "フィリアノールの騎士、シラ",
+    "english": "Shira, Knight of Filianore"
+  },
+  {
+    "id": "npc-ds3-218",
+    "chinese": "专家",
+    "japanese": "達人",
+    "english": "Sword Master"
+  },
+  {
+    "id": "npc-ds3-219",
+    "chinese": "疯女伊莎贝拉",
+    "japanese": "狂女イザベラ",
+    "english": "Isabella the Mad"
+  },
+  {
+    "id": "npc-ds3-224",
+    "chinese": "猎杀骑士卓力格",
+    "japanese": "騎士狩りゾリグ",
+    "english": "Knight Slayer Tsorig"
+  },
+  {
+    "id": "npc-ds3-227",
+    "chinese": "宫廷魔法师埃梅",
+    "japanese": "宮廷魔術師エーメン",
+    "english": "Court Sorcerer Amen"
+  },
+  {
+    "id": "npc-ds3-228",
+    "chinese": "狮子骑士艾伯特",
+    "japanese": "獅子騎士アルバート",
+    "english": "Lion Knight Albert"
+  },
+  {
+    "id": "npc-ds3-229",
+    "chinese": "黑手的神威",
+    "japanese": "黒い手のカムイ",
+    "english": "Black Hand Kamui"
+  },
+  {
+    "id": "npc-ds3-230",
+    "chinese": "“结晶的女儿”克琳希德",
+    "japanese": "結晶の娘、クリエムヒルト",
+    "english": "Daughter of Crystal Kriemhild"
+  },
+  {
+    "id": "npc-ds3-234",
+    "chinese": "黑手的歌德希尔特",
+    "japanese": "黒い手のゴットヒルト",
+    "english": "Black Hand Gotthard"
+  },
+  {
+    "id": "npc-ds3-235",
+    "chinese": "黄指头的海泽儿",
+    "japanese": "黄色指のヘイゼル",
+    "english": "Yellowfinger Heysel"
+  },
+  {
+    "id": "npc-ds3-236",
+    "chinese": "隆道尔的白色影子",
+    "japanese": "ロンドールの白い影",
+    "english": "Londor Pale Shade"
+  },
+  {
+    "id": "npc-ds3-237",
+    "chinese": "大沼的喀喀路斯",
+    "japanese": "大沼のククールス",
+    "english": "Great Swamp Cuculus"
+  },
+  {
+    "id": "npc-ds3-238",
+    "chinese": "探寻禁忌的亚瓦",
+    "japanese": "忌み探しのアルバ",
+    "english": "Alva, Seeker of the Spurned"
+  },
+  {
+    "id": "npc-ds3-239",
+    "chinese": "流浪的克雷顿",
+    "japanese": "放浪のクレイトン",
+    "english": "Creighton the Wanderer"
+  },
+  {
+    "id": "npc-ds3-240",
+    "chinese": "中指的寇克",
+    "japanese": "中指のカーク",
+    "english": "Longfinger Kirk"
+  },
+  {
+    "id": "npc-ds3-241",
+    "chinese": "“尸斑咒术师”丹涅尔",
+    "japanese": "死斑の呪術師、ダネル",
+    "english": "Livid Pyromancer Dunnel"
+  },
+  {
+    "id": "npc-ds3-242",
+    "chinese": "“沙之咒术师”卓伊",
+    "japanese": "砂の呪術師、ゾーイ",
+    "english": "Desert Pyromancer Zoey"
+  },
+  {
+    "id": "npc-ds3-243",
+    "chinese": "银骑士雷多",
+    "japanese": "銀騎士レド",
+    "english": "Silver Knight Ledo"
+  },
+  {
+    "id": "npc-ds3-244",
+    "chinese": "王者的守墓人",
+    "japanese": "王者の墓守",
+    "english": "Champion's Gravetender"
+  },
+  {
+    "id": "npc-ds3-245",
+    "chinese": "“教堂之枪”贺弗莱特",
+    "japanese": "教会の槍、ハーフライト",
+    "english": "Halflight, Spear of the Church"
+  },
+  {
+    "id": "npc-ds3-246",
+    "chinese": "教堂守护者",
+    "japanese": "教会守り",
+    "english": "Church Guardian"
+  }
+]

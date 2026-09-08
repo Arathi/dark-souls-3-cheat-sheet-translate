@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "100",
+    "icon": "item3/0.webp",
+    "chinese": "白标记蜡石",
+    "japanese": "白いサインろう石",
+    "english": "White Sign Soapstone"
+  },
+  {
+    "id": "101",
+    "icon": "item3/1.webp",
+    "chinese": "红标记蜡石",
+    "japanese": "赤いサインろう石",
+    "english": "Red Sign Soapstone"
+  },
+  {
+    "id": "102",
+    "icon": "item3/2.webp",
+    "chinese": "血红眼眸宝珠",
+    "japanese": "赤い瞳のオーブ",
+    "english": "Red Eye Orb"
+  },
+  {
+    "id": "103",
+    "icon": "item3/3.webp",
+    "chinese": "诀别黑水晶",
+    "japanese": "決別の黒水晶",
+    "english": "Black Separation Crystal"
+  },
+  {
+    "id": "108",
+    "icon": "item3/4.webp",
+    "chinese": "骑士名簿",
+    "japanese": "騎士名簿",
+    "english": "Roster of Knights"
+  },
+  {
+    "id": "111",
+    "icon": "item3/5.webp",
+    "chinese": "龟裂血红眼眸宝珠",
+    "japanese": "ひび割れた赤い瞳のオーブ",
+    "english": "Cracked Red Eye Orb"
+  },
+  {
+    "id": "115",
+    "icon": "item3/6.webp",
+    "chinese": "漆黑眼眸宝珠",
+    "japanese": "黒い瞳のオーブ",
+    "english": "Black Eye Orb"
+  },
+  {
+    "id": "117",
+    "icon": "item3/7.webp",
+    "chinese": "黑暗之环",
+    "japanese": "ダークリング",
+    "english": "Darksign"
+  },
+  {
+    "id": "119",
+    "icon": "item3/8.webp",
+    "chinese": "白教之环",
+    "japanese": "白教の環",
+    "english": "Way of White Circlet"
+  },
+  {
+    "id": "150",
+    "icon": "item3/9.webp",
+    "chinese": "原素瓶",
+    "japanese": "エスト瓶",
+    "english": "Estus Flask"
+  },
+  {
+    "id": "190",
+    "icon": "item3/10.webp",
+    "chinese": "原素灰瓶",
+    "japanese": "エストの灰瓶",
+    "english": "Ashen Estus Flask"
+  },
+  {
+    "id": "240",
+    "icon": "item3/11.webp",
+    "chinese": "女神的祝福",
+    "japanese": "女神の祝福",
+    "english": "Divine Blessing"
+  },
+  {
+    "id": "241",
+    "icon": "item3/12.webp",
+    "chinese": "秘藏的祝福",
+    "japanese": "秘めた祝福",
+    "english": "Hidden Blessing"
+  },
+  {
+    "id": "260",
+    "icon": "item3/13.webp",
+    "chinese": "绿花草",
+    "japanese": "緑花草",
+    "english": "Green Blossom"
+  },
+  {
+    "id": "261",
+    "icon": "item3/14.webp",
+    "chinese": "开花绿花草",
+    "japanese": "花付き緑花草",
+    "english": "Budding Green Blossom"
+  },
+  {
+    "id": "262",
+    "icon": "item3/15.webp",
+    "chinese": "开花绿花草",
+    "japanese": "花付き緑花草",
+    "english": "Budding Green Blossom"
+  },
+  {
+    "id": "270",
+    "icon": "item3/16.webp",
+    "chinese": "血红苔藓球",
+    "japanese": "血赤の苔玉",
+    "english": "Bloodred Moss Clump"
+  },
+  {
+    "id": "271",
+    "icon": "item3/17.webp",
+    "chinese": "毒紫苔藓球",
+    "japanese": "毒紫の苔玉",
+    "english": "Purple Moss Clump"
+  },
+  {
+    "id": "272",
+    "icon": "item3/18.webp",
+    "chinese": "毒紫花苔藓球",
+    "japanese": "毒紫の花苔玉",
+    "english": "Blooming Purple Moss Clump"
+  },
+  {
+    "id": "274",
+    "icon": "item3/19.webp",
+    "chinese": "解咒石",
+    "japanese": "解呪石",
+    "english": "Purging Stone"
+  },
+  {
+    "id": "276",
+    "icon": "item3/20.webp",
+    "chinese": "蓝冻苔藓球",
+    "japanese": "凍青の苔玉",
+    "english": "Rime-blue Moss Clump"
+  },
+  {
+    "id": "280",
+    "icon": "item3/21.webp",
+    "chinese": "修理光粉",
+    "japanese": "修理の光粉",
+    "english": "Repair Powder"
+  },
+  {
+    "id": "290",
+    "icon": "item3/22.webp",
+    "chinese": "廓尔喀弯刀",
+    "japanese": "ククリ",
+    "english": "Kukri"
+  },
+  {
+    "id": "292",
+    "icon": "item3/23.webp",
+    "chinese": "火焰壶",
+    "japanese": "火炎壺",
+    "english": "Firebomb"
+  },
+  {
+    "id": "293",
+    "icon": "item3/24.webp",
+    "chinese": "屎块",
+    "japanese": "糞団子",
+    "english": "Dung Pie"
+  },
+  {
+    "id": "294",
+    "icon": "item3/25.webp",
+    "chinese": "诱敌头盖骨",
+    "japanese": "誘い頭蓋",
+    "english": "Alluring Skull"
+  },
+  {
+    "id": "296",
+    "icon": "item3/26.webp",
+    "chinese": "猎捕不死人护符",
+    "japanese": "不死狩りの護符",
+    "english": "Undead Hunter Charm"
+  },
+  {
+    "id": "297",
+    "icon": "item3/27.webp",
+    "chinese": "黑火焰壶",
+    "japanese": "黒火炎壺",
+    "english": "Black Firebomb"
+  },
+  {
+    "id": "299",
+    "icon": "item3/28.webp",
+    "chinese": "附绳火焰壶",
+    "japanese": "紐付き火炎壺",
+    "english": "Rope Firebomb"
+  },
+  {
+    "id": "300",
+    "icon": "item3/29.webp",
+    "chinese": "雷壶",
+    "japanese": "雷壺",
+    "english": "Lightning Urn"
+  },
+  {
+    "id": "302",
+    "icon": "item3/30.webp",
+    "chinese": "附绳黑火焰壶",
+    "japanese": "紐付き黒火炎壺",
+    "english": "Rope Black Firebomb"
+  },
+  {
+    "id": "303",
+    "icon": "item3/31.webp",
+    "chinese": "含草屎块",
+    "japanese": "草付き糞団子",
+    "english": "Stalk Dung Pie"
+  },
+  {
+    "id": "304",
+    "icon": "item3/32.webp",
+    "chinese": "决斗护符",
+    "japanese": "決闘の護符",
+    "english": "Duel Charm"
+  },
+  {
+    "id": "310",
+    "icon": "item3/33.webp",
+    "chinese": "飞刀",
+    "japanese": "投げナイフ",
+    "english": "Throwing Knife"
+  },
+  {
+    "id": "311",
+    "icon": "item3/34.webp",
+    "chinese": "毒飞刀",
+    "japanese": "毒投げナイフ",
+    "english": "Poison Throwing Knife"
+  },
+  {
+    "id": "330",
+    "icon": "item3/35.webp",
+    "chinese": "焦炭松脂",
+    "japanese": "炭松脂",
+    "english": "Charcoal Pine Resin"
+  },
+  {
+    "id": "331",
+    "icon": "item3/36.webp",
+    "chinese": "黄金松脂",
+    "japanese": "黄金松脂",
+    "english": "Gold Pine Resin"
+  },
+  {
+    "id": "334",
+    "icon": "item3/37.webp",
+    "chinese": "人松脂",
+    "japanese": "人松脂",
+    "english": "Human Pine Resin"
+  },
+  {
+    "id": "335",
+    "icon": "item3/38.webp",
+    "chinese": "卡萨斯红刀",
+    "japanese": "カーサスの緋刃",
+    "english": "Carthus Rouge"
+  },
+  {
+    "id": "336",
+    "icon": "item3/39.webp",
+    "chinese": "青白色松脂",
+    "japanese": "青白い松脂",
+    "english": "Pale Pine Resin"
+  },
+  {
+    "id": "340",
+    "icon": "item3/40.webp",
+    "chinese": "散装焦炭松脂",
+    "japanese": "炭松脂の薬包",
+    "english": "Charcoal Pine Bundle"
+  },
+  {
+    "id": "341",
+    "icon": "item3/41.webp",
+    "chinese": "散装黄金松脂",
+    "japanese": "黄金松脂の薬包",
+    "english": "Gold Pine Bundle"
+  },
+  {
+    "id": "343",
+    "icon": "item3/42.webp",
+    "chinese": "腐败松脂",
+    "japanese": "腐れ松脂",
+    "english": "Rotten Pine Resin"
+  },
+  {
+    "id": "350",
+    "icon": "item3/43.webp",
+    "chinese": "返回骨片",
+    "japanese": "帰還の骨片",
+    "english": "Homeward Bone"
+  },
+  {
+    "id": "351",
+    "icon": "item3/44.webp",
+    "chinese": "螺旋剑的残破碎片",
+    "japanese": "螺旋剣の破片",
+    "english": "Coiled Sword Fragment"
+  },
+  {
+    "id": "366",
+    "icon": "item3/45.webp",
+    "chinese": "狼血剑草",
+    "japanese": "狼血の剣草",
+    "english": "Wolf's Blood Swordgrass"
+  },
+  {
+    "id": "367",
+    "icon": "item3/46.webp",
+    "chinese": "人心沉淀物",
+    "japanese": "人の澱み",
+    "english": "Human Dregs"
+  },
+  {
+    "id": "368",
+    "icon": "item3/47.webp",
+    "chinese": "发青双舌",
+    "japanese": "青ざめた二枚舌",
+    "english": "Forked Pale Tongue"
+  },
+  {
+    "id": "369",
+    "icon": "item3/48.webp",
+    "chinese": "特殊约定之证",
+    "japanese": "特別な約定の証",
+    "english": "Proof of a Concord Well Kept"
+  },
+  {
+    "id": "370",
+    "icon": "item3/49.webp",
+    "chinese": "七色石",
+    "japanese": "七色石",
+    "english": "Prism Stone"
+  },
+  {
+    "id": "371",
+    "icon": "item3/50.webp",
+    "chinese": "望远镜",
+    "japanese": "遠眼鏡",
+    "english": "Binoculars"
+  },
+  {
+    "id": "372",
+    "icon": "item3/51.webp",
+    "chinese": "约定之证",
+    "japanese": "約定の証",
+    "english": "Proof of a Concord Kept"
+  },
+  {
+    "id": "373",
+    "icon": "item3/52.webp",
+    "chinese": "发青舌头",
+    "japanese": "青ざめた舌",
+    "english": "Pale Tongue"
+  },
+  {
+    "id": "374",
+    "icon": "item3/53.webp",
+    "chinese": "枷锁脊椎骨",
+    "japanese": "枷の椎骨",
+    "english": "Vertebra Shackle"
+  },
+  {
+    "id": "375",
+    "icon": "item3/54.webp",
+    "chinese": "太阳徽章",
+    "japanese": "太陽のメダル",
+    "english": "Sunlight Medal"
+  },
+  {
+    "id": "377",
+    "icon": "item3/55.webp",
+    "chinese": "龙头石",
+    "japanese": "竜頭石",
+    "english": "Dragon Head Stone"
+  },
+  {
+    "id": "378",
+    "icon": "item3/56.webp",
+    "chinese": "龙体石",
+    "japanese": "竜体石",
+    "english": "Dragon Torso Stone"
+  },
+  {
+    "id": "380",
+    "icon": "item3/57.webp",
+    "chinese": "垃圾残渣",
+    "japanese": "ゴミクズ",
+    "english": "Rubbish"
+  },
+  {
+    "id": "385",
+    "icon": "item3/58.webp",
+    "chinese": "干缩手指",
+    "japanese": "干からびた指",
+    "english": "Dried Finger"
+  },
+  {
+    "id": "387",
+    "icon": "item3/59.webp",
+    "chinese": "光辉龙头石",
+    "japanese": "光る竜頭石",
+    "english": "Twinkling Dragon Head Stone"
+  },
+  {
+    "id": "388",
+    "icon": "item3/60.webp",
+    "chinese": "光辉龙体石",
+    "japanese": "光る竜体石",
+    "english": "Twinkling Dragon Torso Stone"
+  },
+  {
+    "id": "390",
+    "icon": "item3/61.webp",
+    "chinese": "被污染的防火女灵魂",
+    "japanese": "穢れた火防女の魂",
+    "english": "Fire Keeper Soul"
+  },
+  {
+    "id": "400",
+    "icon": "item3/62.webp",
+    "chinese": "即将消逝的灵魂",
+    "japanese": "消えかけのソウル",
+    "english": "Fading Soul"
+  },
+  {
+    "id": "401",
+    "icon": "item3/63.webp",
+    "chinese": "弃尸的灵魂",
+    "japanese": "捨てられた遺体のソウル",
+    "english": "Soul of a Deserted Corpse"
+  },
+  {
+    "id": "402",
+    "icon": "item3/64.webp",
+    "chinese": "弃尸的大块灵魂",
+    "japanese": "捨てられた遺体の大きなソウル",
+    "english": "Large Soul of a Deserted Corpse"
+  },
+  {
+    "id": "403",
+    "icon": "item3/65.webp",
+    "chinese": "来历不明旅人的灵魂",
+    "japanese": "故も知らぬ旅人のソウル",
+    "english": "Soul of an Unknown Traveler"
+  },
+  {
+    "id": "404",
+    "icon": "item3/66.webp",
+    "chinese": "来历不明旅人的大块灵魂",
+    "japanese": "故も知らぬ旅人の大きなソウル",
+    "english": "Large Soul of an Unknown Traveler"
+  },
+  {
+    "id": "405",
+    "icon": "item3/67.webp",
+    "chinese": "无名士兵的灵魂",
+    "japanese": "名も無き兵士のソウル",
+    "english": "Soul of a Nameless Soldier"
+  },
+  {
+    "id": "406",
+    "icon": "item3/68.webp",
+    "chinese": "无名士兵的大块灵魂",
+    "japanese": "名も無き兵士の大きなソウル",
+    "english": "Large Soul of a Nameless Soldier"
+  },
+  {
+    "id": "407",
+    "icon": "item3/69.webp",
+    "chinese": "竭力战士的灵魂",
+    "japanese": "力尽きた戦士のソウル",
+    "english": "Soul of a Weary Warrior"
+  },
+  {
+    "id": "408",
+    "icon": "item3/70.webp",
+    "chinese": "竭力战士的大块灵魂",
+    "japanese": "力尽きた戦士の大きなソウル",
+    "english": "Large Soul of a Weary Warrior"
+  },
+  {
+    "id": "409",
+    "icon": "item3/71.webp",
+    "chinese": "受挫骑士的灵魂",
+    "japanese": "心折れた騎士のソウル",
+    "english": "Soul of a Crestfallen Knight"
+  },
+  {
+    "id": "410",
+    "icon": "item3/72.webp",
+    "chinese": "受挫骑士的大块灵魂",
+    "japanese": "心折れた騎士の大きなソウル",
+    "english": "Large Soul of a Crestfallen Knight"
+  },
+  {
+    "id": "411",
+    "icon": "item3/73.webp",
+    "chinese": "知名圣骑士的灵魂",
+    "japanese": "高名な聖騎士のソウル",
+    "english": "Soul of a Proud Paladin"
+  },
+  {
+    "id": "412",
+    "icon": "item3/74.webp",
+    "chinese": "知名圣骑士的大块灵魂",
+    "japanese": "高名な聖騎士の大きなソウル",
+    "english": "Large Soul of a Proud Paladin"
+  },
+  {
+    "id": "413",
+    "icon": "item3/75.webp",
+    "chinese": "骁悍勇者的灵魂",
+    "japanese": "勇敢な勇者のソウル",
+    "english": "Soul of an Intrepid Hero"
+  },
+  {
+    "id": "414",
+    "icon": "item3/76.webp",
+    "chinese": "骁悍勇者的大块灵魂",
+    "japanese": "勇敢な勇者の大きなソウル",
+    "english": "Large Soul of an Intrepid Hero"
+  },
+  {
+    "id": "415",
+    "icon": "item3/77.webp",
+    "chinese": "百战勇士的灵魂",
+    "japanese": "歴戦の勇士のソウル",
+    "english": "Soul of a Seasoned Warrior"
+  },
+  {
+    "id": "416",
+    "icon": "item3/78.webp",
+    "chinese": "百战勇士的大块灵魂",
+    "japanese": "歴戦の勇士の大きなソウル",
+    "english": "Large Soul of a Seasoned Warrior"
+  },
+  {
+    "id": "417",
+    "icon": "item3/79.webp",
+    "chinese": "古代强者的灵魂",
+    "japanese": "古強者のソウル",
+    "english": "Soul of an Old Hand"
+  },
+  {
+    "id": "418",
+    "icon": "item3/80.webp",
+    "chinese": "颓老强者的灵魂",
+    "japanese": "老強者のソウル",
+    "english": "Soul of a Venerable Old Hand"
+  },
+  {
+    "id": "419",
+    "icon": "item3/81.webp",
+    "chinese": "英雄的灵魂",
+    "japanese": "英雄のソウル",
+    "english": "Soul of a Champion"
+  },
+  {
+    "id": "420",
+    "icon": "item3/82.webp",
+    "chinese": "伟大英雄的灵魂",
+    "japanese": "偉大な英雄のソウル",
+    "english": "Soul of a Great Champion"
+  },
+  {
+    "id": "440",
+    "icon": "item3/83.webp",
+    "chinese": "巨人树种子",
+    "japanese": "巨人樹の種",
+    "english": "Seed of a Giant Tree"
+  },
+  {
+    "id": "452",
+    "icon": "item3/84.webp",
+    "chinese": "苔藓球果实",
+    "japanese": "苔玉の実",
+    "english": "Mossfruit"
+  },
+  {
+    "id": "454",
+    "icon": "item3/85.webp",
+    "chinese": "嫩白树枝",
+    "japanese": "幼い白枝",
+    "english": "Young White Branch"
+  },
+  {
+    "id": "455",
+    "icon": "item3/86.webp",
+    "chinese": "锈斑硬币",
+    "japanese": "錆びついた銅貨",
+    "english": "Rusted Coin"
+  },
+  {
+    "id": "456",
+    "icon": "item3/87.webp",
+    "chinese": "杰克的酒",
+    "japanese": "ジークの酒",
+    "english": "Siegbräu"
+  },
+  {
+    "id": "457",
+    "icon": "item3/88.webp",
+    "chinese": "锈斑金币",
+    "japanese": "錆びついた金貨",
+    "english": "Rusted Gold Coin"
+  },
+  {
+    "id": "458",
+    "icon": "item3/89.webp",
+    "chinese": "蓝虫药丸",
+    "japanese": "青虫の丸薬",
+    "english": "Blue Bug Pellet"
+  },
+  {
+    "id": "459",
+    "icon": "item3/90.webp",
+    "chinese": "红虫药丸",
+    "japanese": "赤虫の丸薬",
+    "english": "Red Bug Pellet"
+  },
+  {
+    "id": "460",
+    "icon": "item3/91.webp",
+    "chinese": "黄虫药丸",
+    "japanese": "黄虫の丸薬",
+    "english": "Yellow Bug Pellet"
+  },
+  {
+    "id": "461",
+    "icon": "item3/92.webp",
+    "chinese": "黑虫药丸",
+    "japanese": "黒虫の丸薬",
+    "english": "Black Bug Pellet"
+  },
+  {
+    "id": "462",
+    "icon": "item3/93.webp",
+    "chinese": "嫩白树枝",
+    "japanese": "幼い白枝",
+    "english": "Young White Branch"
+  },
+  {
+    "id": "463",
+    "icon": "item3/94.webp",
+    "chinese": "嫩白树枝",
+    "japanese": "幼い白枝",
+    "english": "Young White Branch"
+  },
+  {
+    "id": "490",
+    "icon": "item3/95.webp",
+    "chinese": "黑暗印记",
+    "japanese": "暗い穴",
+    "english": "Dark Sigil"
+  },
+  {
+    "id": "500",
+    "icon": "item3/96.webp",
+    "chinese": "余火",
+    "japanese": "残り火",
+    "english": "Ember"
+  },
+  {
+    "id": "520",
+    "icon": "item3/97.webp",
+    "chinese": "人脸“你好啊”",
+    "japanese": "人面「こんにちは」",
+    "english": "Hello Carving"
+  },
+  {
+    "id": "521",
+    "icon": "item3/98.webp",
+    "chinese": "人脸“谢谢你”",
+    "japanese": "人面「ありがとう」",
+    "english": "Thank you Carving"
+  },
+  {
+    "id": "522",
+    "icon": "item3/99.webp",
+    "chinese": "人脸“不错啊！”",
+    "japanese": "人面「いいね！」",
+    "english": "Very good! Carving"
+  },
+  {
+    "id": "523",
+    "icon": "item3/100.webp",
+    "chinese": "人脸“很抱歉”",
+    "japanese": "人面「申し訳ない」",
+    "english": "I'm sorry Carving"
+  },
+  {
+    "id": "524",
+    "icon": "item3/101.webp",
+    "chinese": "人脸“救命啊！”",
+    "japanese": "人面「助けてくれ！」",
+    "english": "Help me! Carving"
+  },
+  {
+    "id": "712",
+    "icon": "item3/102.webp",
+    "chinese": "英雄古达的灵魂",
+    "japanese": "英雄グンダのソウル",
+    "english": "Soul of Champion Gundyr"
+  },
+  {
+    "id": "714",
+    "icon": "item3/103.webp",
+    "chinese": "舞娘的灵魂",
+    "japanese": "踊り子のソウル",
+    "english": "Soul of the Dancer"
+  },
+  {
+    "id": "715",
+    "icon": "item3/104.webp",
+    "chinese": "结晶老者的灵魂",
+    "japanese": "結晶の古老のソウル",
+    "english": "Soul of a Crystal Sage"
+  },
+  {
+    "id": "717",
+    "icon": "item3/105.webp",
+    "chinese": "狼血的灵魂",
+    "japanese": "狼血のソウル",
+    "english": "Soul of the Blood of the Wolf"
+  },
+  {
+    "id": "718",
+    "icon": "item3/106.webp",
+    "chinese": "妖王欧斯罗艾斯的灵魂",
+    "japanese": "妖王オスロエスのソウル",
+    "english": "Soul of Consumed Oceiros"
+  },
+  {
+    "id": "719",
+    "icon": "item3/107.webp",
+    "chinese": "冷冽谷的玻尔多的灵魂",
+    "japanese": "冷たい谷のボルドのソウル",
+    "english": "Soul of Boreal Valley Vordt"
+  },
+  {
+    "id": "720",
+    "icon": "item3/108.webp",
+    "chinese": "老恶魔王的灵魂",
+    "japanese": "デーモンの老王のソウル",
+    "english": "Soul of the Old Demon King"
+  },
+  {
+    "id": "721",
+    "icon": "item3/109.webp",
+    "chinese": "猎龙铠甲的灵魂",
+    "japanese": "竜狩りの鎧のソウル",
+    "english": "Soul of Dragonslayer Armour"
+  },
+  {
+    "id": "722",
+    "icon": "item3/110.webp",
+    "chinese": "无名王者的灵魂",
+    "japanese": "無名の王のソウル",
+    "english": "Soul of the Nameless King"
+  },
+  {
+    "id": "724",
+    "icon": "item3/111.webp",
+    "chinese": "教宗沙力万的灵魂",
+    "japanese": "法王サリヴァーンのソウル",
+    "english": "Soul of Pontiff Sulyvahn"
+  },
+  {
+    "id": "725",
+    "icon": "item3/112.webp",
+    "chinese": "艾尔德利奇的灵魂",
+    "japanese": "エルドリッチのソウル",
+    "english": "Soul of Aldrich"
+  },
+  {
+    "id": "726",
+    "icon": "item3/113.webp",
+    "chinese": "霸王沃尼尔的灵魂",
+    "japanese": "覇王ウォルニールのソウル",
+    "english": "Soul of High Lord Wolnir"
+  },
+  {
+    "id": "727",
+    "icon": "item3/114.webp",
+    "chinese": "咒蚀大树的灵魂",
+    "japanese": "呪腹の大樹のソウル",
+    "english": "Soul of the Rotted Greatwood"
+  },
+  {
+    "id": "728",
+    "icon": "item3/115.webp",
+    "chinese": "罗莎莉亚的灵魂",
+    "japanese": "ロザリアのソウル",
+    "english": "Soul of Rosaria"
+  },
+  {
+    "id": "729",
+    "icon": "item3/116.webp",
+    "chinese": "幽邃主教群的灵魂",
+    "japanese": "深みの主教たちのソウル",
+    "english": "Soul of the Deacons of the Deep"
+  },
+  {
+    "id": "731",
+    "icon": "item3/117.webp",
+    "chinese": "孪生王子的灵魂",
+    "japanese": "双王子のソウル",
+    "english": "Soul of the Twin Princes"
+  },
+  {
+    "id": "732",
+    "icon": "item3/118.webp",
+    "chinese": "巨人尤姆的灵魂",
+    "japanese": "巨人ヨームのソウル",
+    "english": "Soul of Yhorm the Giant"
+  },
+  {
+    "id": "733",
+    "icon": "item3/119.webp",
+    "chinese": "薪王们的灵魂",
+    "japanese": "王たちのソウル",
+    "english": "Soul of the Lords"
+  },
+  {
+    "id": "739",
+    "icon": "item3/120.webp",
+    "chinese": "恶魔的灵魂",
+    "japanese": "デーモンのソウル",
+    "english": "Soul of a Demon"
+  },
+  {
+    "id": "743",
+    "icon": "item3/121.webp",
+    "chinese": "离群恶魔的灵魂",
+    "japanese": "はぐれデーモンのソウル",
+    "english": "Soul of a Stray Demon"
+  },
+  {
+    "id": "1000",
+    "icon": "item3/122.webp",
+    "chinese": "楔形石碎片",
+    "japanese": "楔石の欠片",
+    "english": "Titanite Shard"
+  },
+  {
+    "id": "1001",
+    "icon": "item3/123.webp",
+    "chinese": "楔形石大碎片",
+    "japanese": "楔石の大欠片",
+    "english": "Large Titanite Shard"
+  },
+  {
+    "id": "1002",
+    "icon": "item3/124.webp",
+    "chinese": "楔形石块",
+    "japanese": "楔石の塊",
+    "english": "Titanite Chunk"
+  },
+  {
+    "id": "1003",
+    "icon": "item3/125.webp",
+    "chinese": "楔形石原盘",
+    "japanese": "楔石の原盤",
+    "english": "Titanite Slab"
+  },
+  {
+    "id": "1020",
+    "icon": "item3/126.webp",
+    "chinese": "龙鳞楔形石",
+    "japanese": "楔石のウロコ",
+    "english": "Titanite Scale"
+  },
+  {
+    "id": "1030",
+    "icon": "item3/127.webp",
+    "chinese": "光辉楔形石",
+    "japanese": "光る楔石",
+    "english": "Twinkling Titanite"
+  },
+  {
+    "id": "1100",
+    "icon": "item3/128.webp",
+    "chinese": "厚重宝石",
+    "japanese": "重厚な貴石",
+    "english": "Heavy Gem"
+  },
+  {
+    "id": "1110",
+    "icon": "item3/129.webp",
+    "chinese": "锋利宝石",
+    "japanese": "鋭利な貴石",
+    "english": "Sharp Gem"
+  },
+  {
+    "id": "1120",
+    "icon": "item3/130.webp",
+    "chinese": "熟练宝石",
+    "japanese": "熟練の貴石",
+    "english": "Refined Gem"
+  },
+  {
+    "id": "1130",
+    "icon": "item3/131.webp",
+    "chinese": "结晶宝石",
+    "japanese": "結晶の貴石",
+    "english": "Crystal Gem"
+  },
+  {
+    "id": "1140",
+    "icon": "item3/132.webp",
+    "chinese": "愚人宝石",
+    "japanese": "愚者の貴石",
+    "english": "Simple Gem"
+  },
+  {
+    "id": "1150",
+    "icon": "item3/133.webp",
+    "chinese": "火焰宝石",
+    "japanese": "炎の貴石",
+    "english": "Fire Gem"
+  },
+  {
+    "id": "1160",
+    "icon": "item3/134.webp",
+    "chinese": "混沌宝石",
+    "japanese": "混沌の貴石",
+    "english": "Chaos Gem"
+  },
+  {
+    "id": "1170",
+    "icon": "item3/135.webp",
+    "chinese": "雷电宝石",
+    "japanese": "雷の貴石",
+    "english": "Lightning Gem"
+  },
+  {
+    "id": "1180",
+    "icon": "item3/136.webp",
+    "chinese": "幽邃宝石",
+    "japanese": "深みの貴石",
+    "english": "Deep Gem"
+  },
+  {
+    "id": "1190",
+    "icon": "item3/137.webp",
+    "chinese": "暗宝石",
+    "japanese": "闇の貴石",
+    "english": "Dark Gem"
+  },
+  {
+    "id": "1200",
+    "icon": "item3/138.webp",
+    "chinese": "毒宝石",
+    "japanese": "毒の貴石",
+    "english": "Poison Gem"
+  },
+  {
+    "id": "1210",
+    "icon": "item3/139.webp",
+    "chinese": "血宝石",
+    "japanese": "血の貴石",
+    "english": "Blood Gem"
+  },
+  {
+    "id": "1220",
+    "icon": "item3/140.webp",
+    "chinese": "粗制宝石",
+    "japanese": "粗製の貴石",
+    "english": "Raw Gem"
+  },
+  {
+    "id": "1230",
+    "icon": "item3/141.webp",
+    "chinese": "祝福宝石",
+    "japanese": "祝福の貴石",
+    "english": "Blessed Gem"
+  },
+  {
+    "id": "1240",
+    "icon": "item3/142.webp",
+    "chinese": "游魂宝石",
+    "japanese": "亡者の貴石",
+    "english": "Hollow Gem"
+  },
+  {
+    "id": "1250",
+    "icon": "item3/143.webp",
+    "chinese": "丧失石",
+    "japanese": "喪失石",
+    "english": "Shriving Stone"
+  },
+  {
+    "id": "2001",
+    "icon": "item3/144.webp",
+    "chinese": "升降机房间的钥匙",
+    "japanese": "リフト部屋の鍵",
+    "english": "Lift Chamber Key"
+  },
+  {
+    "id": "2005",
+    "icon": "item3/145.webp",
+    "chinese": "小人偶",
+    "japanese": "小さな人形",
+    "english": "Small Doll"
+  },
+  {
+    "id": "2007",
+    "icon": "item3/146.webp",
+    "chinese": "窗栏的钥匙",
+    "japanese": "窓格子の鍵",
+    "english": "Jailbreaker's Key"
+  },
+  {
+    "id": "2008",
+    "icon": "item3/147.webp",
+    "chinese": "狱卒的钥匙",
+    "japanese": "獄吏の鍵束",
+    "english": "Jailer's Key Ring"
+  },
+  {
+    "id": "2009",
+    "icon": "item3/148.webp",
+    "chinese": "墓地的钥匙",
+    "japanese": "墓地の鍵",
+    "english": "Grave Key"
+  },
+  {
+    "id": "2010",
+    "icon": "item3/149.webp",
+    "chinese": "监牢的钥匙",
+    "japanese": "牢の鍵",
+    "english": "Cell Key"
+  },
+  {
+    "id": "2012",
+    "icon": "item3/150.webp",
+    "chinese": "古老监牢的钥匙",
+    "japanese": "古牢の鍵",
+    "english": "Old Cell Key"
+  },
+  {
+    "id": "2013",
+    "icon": "item3/151.webp",
+    "chinese": "塔的钥匙",
+    "japanese": "塔の鍵",
+    "english": "Tower Key"
+  },
+  {
+    "id": "2014",
+    "icon": "item3/152.webp",
+    "chinese": "大书库的钥匙",
+    "japanese": "大書庫の鍵",
+    "english": "Grand Archives Key"
+  },
+  {
+    "id": "2102",
+    "icon": "item3/153.webp",
+    "chinese": "洛斯里克小环旗",
+    "japanese": "ロスリックの小環旗",
+    "english": "Small Lothric Banner"
+  },
+  {
+    "id": "2103",
+    "icon": "item3/154.webp",
+    "chinese": "法兰余烬",
+    "japanese": "ファランの種火",
+    "english": "Farron Coal"
+  },
+  {
+    "id": "2104",
+    "icon": "item3/155.webp",
+    "chinese": "老者余烬",
+    "japanese": "古老の種火",
+    "english": "Sage's Coal"
+  },
+  {
+    "id": "2105",
+    "icon": "item3/156.webp",
+    "chinese": "巨人余烬",
+    "japanese": "巨人の種火",
+    "english": "Giant's Coal"
+  },
+  {
+    "id": "2106",
+    "icon": "item3/157.webp",
+    "chinese": "罪业余烬",
+    "japanese": "罪の種火",
+    "english": "Profaned Coal"
+  },
+  {
+    "id": "2107",
+    "icon": "item3/158.webp",
+    "chinese": "安葬者骨灰",
+    "japanese": "埋葬者の遺灰",
+    "english": "Mortician's Ashes"
+  },
+  {
+    "id": "2108",
+    "icon": "item3/159.webp",
+    "chinese": "逐梦者骨灰",
+    "japanese": "夢追い人の遺灰",
+    "english": "Dreamchaser's Ashes"
+  },
+  {
+    "id": "2109",
+    "icon": "item3/160.webp",
+    "chinese": "圣骑士骨灰",
+    "japanese": "聖騎士の遺灰",
+    "english": "Paladin's Ashes"
+  },
+  {
+    "id": "2110",
+    "icon": "item3/161.webp",
+    "chinese": "守墓人骨灰",
+    "japanese": "墓守の遺灰",
+    "english": "Grave Warden's Ashes"
+  },
+  {
+    "id": "2111",
+    "icon": "item3/162.webp",
+    "chinese": "葛雷瑞特的骨灰",
+    "japanese": "グレイラットの遺灰",
+    "english": "Greirat's Ashes"
+  },
+  {
+    "id": "2112",
+    "icon": "item3/163.webp",
+    "chinese": "欧贝克的骨灰",
+    "japanese": "オーベックの遺灰",
+    "english": "Orbeck's Ashes"
+  },
+  {
+    "id": "2113",
+    "icon": "item3/164.webp",
+    "chinese": "柯弭库斯的骨灰",
+    "japanese": "コルニクスの遺灰",
+    "english": "Cornyx's Ashes"
+  },
+  {
+    "id": "2114",
+    "icon": "item3/165.webp",
+    "chinese": "卡露拉的骨灰",
+    "japanese": "カルラの遺灰",
+    "english": "Karla's Ashes"
+  },
+  {
+    "id": "2115",
+    "icon": "item3/166.webp",
+    "chinese": "伊莉娜的骨灰",
+    "japanese": "イリーナの遺灰",
+    "english": "Irina's Ashes"
+  },
+  {
+    "id": "2116",
+    "icon": "item3/167.webp",
+    "chinese": "尤莉雅的骨灰",
+    "japanese": "ユリアの遺灰",
+    "english": "Yuria's Ashes"
+  },
+  {
+    "id": "2117",
+    "icon": "item3/168.webp",
+    "chinese": "誓言水盆",
+    "japanese": "誓いの水盆",
+    "english": "Basin of Vows"
+  },
+  {
+    "id": "2118",
+    "icon": "item3/169.webp",
+    "chinese": "罗蕾塔的骨头",
+    "japanese": "ロレッタの骨",
+    "english": "Loretta's Bone"
+  },
+  {
+    "id": "2119",
+    "icon": "item3/170.webp",
+    "chinese": "卡利姆点字圣典",
+    "japanese": "カリムの点字聖書",
+    "english": "Braille Divine Tome of Carim"
+  },
+  {
+    "id": "2120",
+    "icon": "item3/171.webp",
+    "chinese": "洛斯里克点字圣典",
+    "japanese": "ロスリックの点字聖書",
+    "english": "Braille Divine Tome of Lothric"
+  },
+  {
+    "id": "2123",
+    "icon": "item3/172.webp",
+    "chinese": "薪王柴薪",
+    "japanese": "王の薪",
+    "english": "Cinders of a Lord"
+  },
+  {
+    "id": "2124",
+    "icon": "item3/173.webp",
+    "chinese": "薪王柴薪",
+    "japanese": "王の薪",
+    "english": "Cinders of a Lord"
+  },
+  {
+    "id": "2125",
+    "icon": "item3/174.webp",
+    "chinese": "薪王柴薪",
+    "japanese": "王の薪",
+    "english": "Cinders of a Lord"
+  },
+  {
+    "id": "2126",
+    "icon": "item3/175.webp",
+    "chinese": "薪王柴薪",
+    "japanese": "王の薪",
+    "english": "Cinders of a Lord"
+  },
+  {
+    "id": "2127",
+    "icon": "item3/176.webp",
+    "chinese": "大沼咒术书",
+    "japanese": "大沼の呪術書",
+    "english": "Great Swamp Pyromancy Tome"
+  },
+  {
+    "id": "2128",
+    "icon": "item3/177.webp",
+    "chinese": "卡萨斯咒术书",
+    "japanese": "カーサスの呪術書",
+    "english": "Carthus Pyromancy Tome"
+  },
+  {
+    "id": "2129",
+    "icon": "item3/178.webp",
+    "chinese": "伊札里斯咒术书",
+    "japanese": "イザリスの呪術書",
+    "english": "Izalith Pyromancy Tome"
+  },
+  {
+    "id": "2130",
+    "icon": "item3/179.webp",
+    "chinese": "克拉娜的咒术书",
+    "japanese": "クラーナの呪術書",
+    "english": "Quelana Pyromancy Tome"
+  },
+  {
+    "id": "2131",
+    "icon": "item3/180.webp",
+    "chinese": "守墓人咒术书",
+    "japanese": "墓守の呪術書",
+    "english": "Grave Warden Pyromancy Tome"
+  },
+  {
+    "id": "2132",
+    "icon": "item3/181.webp",
+    "chinese": "老者卷轴",
+    "japanese": "古老のスクロール",
+    "english": "Sage's Scroll"
+  },
+  {
+    "id": "2133",
+    "icon": "item3/182.webp",
+    "chinese": "罗根卷轴",
+    "japanese": "ローガンのスクロール",
+    "english": "Logan's Scroll"
+  },
+  {
+    "id": "2134",
+    "icon": "item3/183.webp",
+    "chinese": "结晶卷轴",
+    "japanese": "結晶のスクロール",
+    "english": "Crystal Scroll"
+  },
+  {
+    "id": "2135",
+    "icon": "item3/184.webp",
+    "chinese": "冶炼炉",
+    "japanese": "錬成炉",
+    "english": "Transposing Kiln"
+  },
+  {
+    "id": "2137",
+    "icon": "item3/185.webp",
+    "chinese": "螺旋剑",
+    "japanese": "螺旋の剣",
+    "english": "Coiled Sword"
+  },
+  {
+    "id": "2138",
+    "icon": "item3/186.webp",
+    "chinese": "防火女的眼眸",
+    "japanese": "火防女の瞳",
+    "english": "Eyes of a Fire Keeper"
+  },
+  {
+    "id": "2139",
+    "icon": "item3/187.webp",
+    "chinese": "定约剑",
+    "japanese": "契りの剣",
+    "english": "Sword of Avowal"
+  },
+  {
+    "id": "2140",
+    "icon": "item3/188.webp",
+    "chinese": "黄金卷轴",
+    "japanese": "黄金のスクロール",
+    "english": "Golden Scroll"
+  },
+  {
+    "id": "2141",
+    "icon": "item3/189.webp",
+    "chinese": "原素碎片",
+    "japanese": "エストのかけら",
+    "english": "Estus Shard"
+  },
+  {
+    "id": "2142",
+    "icon": "item3/190.webp",
+    "chinese": "霍克伍德的剑草",
+    "japanese": "ホークウッドの剣草",
+    "english": "Hawkwood's Swordgrass"
+  },
+  {
+    "id": "2143",
+    "icon": "item3/191.webp",
+    "chinese": "不死人遗骨",
+    "japanese": "不死の遺骨",
+    "english": "Undead Bone Shard"
+  },
+  {
+    "id": "2144",
+    "icon": "item3/192.webp",
+    "chinese": "幽邃点字圣典",
+    "japanese": "深みの点字聖書",
+    "english": "Deep Braille Divine Tome"
+  },
+  {
+    "id": "2145",
+    "icon": "item3/193.webp",
+    "chinese": "隆道尔点字圣典",
+    "japanese": "ロンドールの点字聖書",
+    "english": "Londor Braille Divine Tome"
+  },
+  {
+    "id": "2146",
+    "icon": "item3/194.webp",
+    "chinese": "沾屎骨灰",
+    "japanese": "糞塗れの遺灰",
+    "english": "Excrement-covered Ashes"
+  },
+  {
+    "id": "2147",
+    "icon": "item3/195.webp",
+    "chinese": "监牢老大骨灰",
+    "japanese": "牢名主の遺灰",
+    "english": "Prisoner Chief's Ashes"
+  },
+  {
+    "id": "2148",
+    "icon": "item3/196.webp",
+    "chinese": "研究者骨灰",
+    "japanese": "探究者の遺灰",
+    "english": "Xanthous Ashes"
+  },
+  {
+    "id": "2149",
+    "icon": "item3/197.webp",
+    "chinese": "游魂骨灰",
+    "japanese": "亡者の遺灰",
+    "english": "Hollow's Ashes"
+  },
+  {
+    "id": "2150",
+    "icon": "item3/198.webp",
+    "chinese": "帕奇的骨灰",
+    "japanese": "パッチの遺灰",
+    "english": "Patches' Ashes"
+  },
+  {
+    "id": "2151",
+    "icon": "item3/199.webp",
+    "chinese": "逐龙者骨灰",
+    "japanese": "竜追い人の遺灰",
+    "english": "Dragon Chaser's Ashes"
+  },
+  {
+    "id": "2152",
+    "icon": "item3/200.webp",
+    "chinese": "东方人骨灰",
+    "japanese": "東人の遺灰",
+    "english": "Easterner's Ashes"
+  },
+  {
+    "id": "744",
+    "icon": "item3/201.webp",
+    "chinese": "芙莉德修女的灵魂",
+    "japanese": "修道女フリーデのソウル",
+    "english": "Soul of Sister Friede"
+  },
+  {
+    "id": "2153",
+    "icon": "item3/202.webp",
+    "chinese": "王者遗骨",
+    "japanese": "王者の遺骨",
+    "english": "Champion's Bones"
+  },
+  {
+    "id": "2154",
+    "icon": "item3/203.webp",
+    "chinese": "骑士长的骨灰",
+    "japanese": "騎士長の遺灰",
+    "english": "Captain's Ashes"
+  },
+  {
+    "id": "2155",
+    "icon": "item3/204.webp",
+    "chinese": "机关钥匙",
+    "japanese": "仕掛けの鍵",
+    "english": "Contraption Key"
+  },
+  {
+    "id": "315",
+    "icon": "item3/205.webp",
+    "chinese": "教堂守护者薄刀",
+    "japanese": "教会守りの薄刃",
+    "english": "Church Guardian Shiv"
+  },
+  {
+    "id": "379",
+    "icon": "item3/206.webp",
+    "chinese": "费莲诺尔枪饰",
+    "japanese": "フィリアノールの槍飾り",
+    "english": "Filianore's Spear Ornament"
+  },
+  {
+    "id": "650",
+    "icon": "item3/207.webp",
+    "chinese": "仪式枪的碎片",
+    "japanese": "儀式槍の欠片",
+    "english": "Ritual Spear Fragment"
+  },
+  {
+    "id": "651",
+    "icon": "item3/208.webp",
+    "chinese": "圣枪的碎片",
+    "japanese": "聖槍の欠片",
+    "english": "Divine Spear Fragment"
+  },
+  {
+    "id": "745",
+    "icon": "item3/209.webp",
+    "chinese": "奴隶骑士盖尔的灵魂",
+    "japanese": "奴隷騎士ゲールのソウル",
+    "english": "Soul of Slave Knight Gael"
+  },
+  {
+    "id": "746",
+    "icon": "item3/210.webp",
+    "chinese": "恶魔王子的灵魂",
+    "japanese": "デーモンの王子のソウル",
+    "english": "Soul of the Demon Prince"
+  },
+  {
+    "id": "747",
+    "icon": "item3/211.webp",
+    "chinese": "吞噬黑暗的米狄尔的灵魂",
+    "japanese": "闇喰らいのミディールのソウル",
+    "english": "Soul of Darkeater Midir"
+  },
+  {
+    "id": "2156",
+    "icon": "item3/212.webp",
+    "chinese": "特使小环旗",
+    "japanese": "勅使の小環旗",
+    "english": "Small Envoy Banner"
+  },
+  {
+    "id": "2157",
+    "icon": "item3/213.webp",
+    "chinese": "老妪骨灰",
+    "japanese": "老女の遺灰",
+    "english": "Old Woman's Ashes"
+  },
+  {
+    "id": "2158",
+    "icon": "item3/214.webp",
+    "chinese": "黑暗灵魂之血",
+    "japanese": "暗い魂の血",
+    "english": "Blood of the Dark Soul"
+  },
+  {
+    "id": "2159",
+    "icon": "item3/215.webp",
+    "chinese": "嫩芽泪滴石",
+    "japanese": "若草の雫",
+    "english": "Young Grass Dew"
+  },
+  {
+    "id": "10000",
+    "icon": "item3/216.webp",
+    "chinese": "暗月之剑",
+    "japanese": "暗月の剣",
+    "english": "Blade of the Darkmoon"
+  },
+  {
+    "id": "10020",
+    "icon": "item3/217.webp",
+    "chinese": "法兰守卫",
+    "japanese": "ファランの番人",
+    "english": "Watchdogs of Farron"
+  },
+  {
+    "id": "10030",
+    "icon": "item3/218.webp",
+    "chinese": "吞噬神明的守护人",
+    "japanese": "神喰らいの守り手",
+    "english": "Aldrich Faithful"
+  },
+  {
+    "id": "10040",
+    "icon": "item3/219.webp",
+    "chinese": "太阳战士",
+    "japanese": "太陽の戦士",
+    "english": "Warrior of Sunlight"
+  },
+  {
+    "id": "10050",
+    "icon": "item3/220.webp",
+    "chinese": "累积者",
+    "japanese": "積む者",
+    "english": "Mound-makers"
+  },
+  {
+    "id": "10060",
+    "icon": "item3/221.webp",
+    "chinese": "青教",
+    "japanese": "青教",
+    "english": "Way of Blue"
+  },
+  {
+    "id": "10070",
+    "icon": "item3/222.webp",
+    "chinese": "青之守护者",
+    "japanese": "青の守護者",
+    "english": "Blue Sentinels"
+  },
+  {
+    "id": "10080",
+    "icon": "item3/223.webp",
+    "chinese": "罗莎莉亚的指头",
+    "japanese": "ロザリアの指",
+    "english": "Rosaria's Fingers"
+  },
+  {
+    "id": "10090",
+    "icon": "item3/224.webp",
+    "chinese": "教堂之枪",
+    "japanese": "教会の槍",
+    "english": "Spears of the Church"
+  }
+]

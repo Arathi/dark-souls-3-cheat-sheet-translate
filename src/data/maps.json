@@ -1,0 +1,113 @@
+[
+  {
+    "id": "map-ds3-cemetery-of-ash",
+    "chinese": "灰烬墓地",
+    "japanese": "灰の墓所",
+    "english": "Cemetery of Ash"
+  },{
+    "id": "map-ds3-firelink-shrine",
+    "chinese": "传火祭祀场",
+    "japanese": "火継ぎの祭祀場",
+    "english": "Firelink Shrine"
+  },{
+    "id": "map-ds3-high-wall",
+    "chinese": "洛斯里克高墙",
+    "japanese": "ロスリックの高壁",
+    "english": "High Wall of Lothric"
+  },{
+    "id": "map-ds3-undead-settlement",
+    "chinese": "不死聚落",
+    "japanese": "不死街",
+    "english": "Undead Settlement"
+  },{
+    "id": "map-ds3-road-of-sacrifices",
+    "chinese": "活祭品之路",
+    "japanese": "生贄の道",
+    "english": "Road of Sacrifices"
+  },{
+    "id": "map-ds3-cathedral-of-the-deep",
+    "chinese": "幽邃教堂",
+    "japanese": "深みの聖堂",
+    "english": "Cathedral of the Deep"
+  },{
+    "id": "map-ds3-farron-keep",
+    "chinese": "法兰要塞",
+    "japanese": "ファランの城塞",
+    "english": "Farron Keep"
+  },{
+    "id": "map-ds3-catacombs-of-carthus",
+    "chinese": "卡萨斯地下墓地",
+    "japanese": "カーサスの地下墓",
+    "english": "Catacombs of Carthus"
+  },{
+    "id": "map-ds3-smouldering-lake",
+    "chinese": "熏烟湖",
+    "japanese": "燻りの湖",
+    "english": "Smouldering Lake"
+  },{
+    "id": "map-ds3-irithyll-of-the-boreal-valley",
+    "chinese": "冷冽谷的伊鲁席尔",
+    "japanese": "冷たい谷のイルシール",
+    "english": "Irithyll of the Boreal Valley"
+  },{
+    "id": "map-ds3-irithyll-dungeon",
+    "chinese": "伊鲁席尔地下监牢",
+    "japanese": "イルシールの地下牢",
+    "english": "Irithyll Dungeon"
+  },{
+    "id": "map-ds3-profaned-capital",
+    "chinese": "罪业之都",
+    "japanese": "罪の都",
+    "english": "Profaned Capital"
+  },{
+    "id": "map-ds3-anor-londo",
+    "chinese": "亚诺尔隆德",
+    "japanese": "アノール・ロンド",
+    "english": "Anor Londo"
+  },{
+    "id": "map-ds3-lothric-castle",
+    "chinese": "洛斯里克城",
+    "japanese": "ロスリック城",
+    "english": "Lothric Castle"
+  },{
+    "id": "map-ds3-grand-archives",
+    "chinese": "大书库",
+    "japanese": "大書庫",
+    "english": "Grand Archives"
+  },{
+    "id": "map-ds3-garden",
+    "chinese": "妖王庭院",
+    "japanese": "妖王の庭",
+    "english": "Consumed King's Garden"
+  },{
+    "id": "map-ds3-untended-graves",
+    "chinese": "无主墓地",
+    "japanese": "無縁墓地",
+    "english": "Untended Graves"
+  },{
+    "id": "map-ds3-archdragon-peak",
+    "chinese": "古龙顶端",
+    "japanese": "古竜の頂",
+    "english": "Archdragon Peak"
+  },{
+    "id": "map-ds3-kiln",
+    "chinese": "初始之火的火炉",
+    "japanese": "最初の火の炉",
+    "english": "Kiln of the First Flame"
+  },{
+    "id": "map-ds3-ariandel",
+    "chinese": "艾雷德尔的绘画世界",
+    "japanese": "アリアンデル絵画世界",
+    "english": "Painted World of Ariandel"
+  },{
+    "id": "map-ds3-the-dreg-heap",
+    "chinese": "聚集地",
+    "japanese": "吹き溜まり",
+    "english": "The Dreg Heap"
+  },{
+    "id": "map-ds3-the-ringed-city",
+    "chinese": "环印城",
+    "japanese": "輪の都",
+    "english": "The Ringed City"
+  }
+]

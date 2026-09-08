@@ -1,0 +1,744 @@
+[
+  {
+    "id": "1200000",
+    "icon": "magic3/0.webp",
+    "chinese": "法兰短箭",
+    "japanese": "ファランの短矢",
+    "english": "Farron Dart"
+  },
+  {
+    "id": "1210000",
+    "icon": "magic3/1.webp",
+    "chinese": "强力法兰短箭",
+    "japanese": "強いファランの短矢",
+    "english": "Great Farron Dart"
+  },
+  {
+    "id": "1300000",
+    "icon": "magic3/2.webp",
+    "chinese": "灵魂箭",
+    "japanese": "ソウルの矢",
+    "english": "Soul Arrow"
+  },
+  {
+    "id": "1301000",
+    "icon": "magic3/3.webp",
+    "chinese": "强力灵魂箭",
+    "japanese": "強いソウルの矢",
+    "english": "Great Soul Arrow"
+  },
+  {
+    "id": "1302000",
+    "icon": "magic3/4.webp",
+    "chinese": "灵魂巨箭",
+    "japanese": "ソウルの太矢",
+    "english": "Heavy Soul Arrow"
+  },
+  {
+    "id": "1303000",
+    "icon": "magic3/5.webp",
+    "chinese": "强力灵魂巨箭",
+    "japanese": "強いソウルの太矢",
+    "english": "Great Heavy Soul Arrow"
+  },
+  {
+    "id": "1304000",
+    "icon": "magic3/6.webp",
+    "chinese": "追踪灵魂块",
+    "japanese": "追尾するソウルの塊",
+    "english": "Homing Soulmass"
+  },
+  {
+    "id": "1305000",
+    "icon": "magic3/7.webp",
+    "chinese": "追踪灵魂结晶块",
+    "japanese": "追尾するソウルの結晶塊",
+    "english": "Homing Crystal Soulmass"
+  },
+  {
+    "id": "1306000",
+    "icon": "magic3/8.webp",
+    "chinese": "灵魂枪",
+    "japanese": "ソウルの槍",
+    "english": "Soul Spear"
+  },
+  {
+    "id": "1307000",
+    "icon": "magic3/9.webp",
+    "chinese": "灵魂结晶枪",
+    "japanese": "ソウルの結晶槍",
+    "english": "Crystal Soul Spear"
+  },
+  {
+    "id": "1308000",
+    "icon": "magic3/10.webp",
+    "chinese": "幽邃灵魂",
+    "japanese": "深みのソウル",
+    "english": "Deep Soul"
+  },
+  {
+    "id": "1309000",
+    "icon": "magic3/11.webp",
+    "chinese": "强力幽邃灵魂",
+    "japanese": "強い深みのソウル",
+    "english": "Great Deep Soul"
+  },
+  {
+    "id": "1310000",
+    "icon": "magic3/12.webp",
+    "chinese": "魔力武器",
+    "japanese": "魔力の武器",
+    "english": "Magic Weapon"
+  },
+  {
+    "id": "1311000",
+    "icon": "magic3/13.webp",
+    "chinese": "强力魔力武器",
+    "japanese": "強い魔力の武器",
+    "english": "Great Magic Weapon"
+  },
+  {
+    "id": "1312000",
+    "icon": "magic3/14.webp",
+    "chinese": "结晶魔力武器",
+    "japanese": "結晶魔力の武器",
+    "english": "Crystal Magic Weapon"
+  },
+  {
+    "id": "1330000",
+    "icon": "magic3/15.webp",
+    "chinese": "魔力盾牌",
+    "japanese": "魔力の盾",
+    "english": "Magic Shield"
+  },
+  {
+    "id": "1331000",
+    "icon": "magic3/16.webp",
+    "chinese": "强力魔力盾牌",
+    "japanese": "強い魔力の盾",
+    "english": "Great Magic Shield"
+  },
+  {
+    "id": "1340000",
+    "icon": "magic3/17.webp",
+    "chinese": "隐形武器",
+    "japanese": "見えない武器",
+    "english": "Hidden Weapon"
+  },
+  {
+    "id": "1341000",
+    "icon": "magic3/18.webp",
+    "chinese": "隐形身躯",
+    "japanese": "見えない体",
+    "english": "Hidden Body"
+  },
+  {
+    "id": "1350000",
+    "icon": "magic3/19.webp",
+    "chinese": "光明照耀",
+    "japanese": "照らす光",
+    "english": "Cast Light"
+  },
+  {
+    "id": "1353000",
+    "icon": "magic3/20.webp",
+    "chinese": "修理",
+    "japanese": "修理",
+    "english": "Repair"
+  },
+  {
+    "id": "1354000",
+    "icon": "magic3/21.webp",
+    "chinese": "密探",
+    "japanese": "隠密",
+    "english": "Spook"
+  },
+  {
+    "id": "1355000",
+    "icon": "magic3/22.webp",
+    "chinese": "拟态",
+    "japanese": "擬態",
+    "english": "Chameleon"
+  },
+  {
+    "id": "1356000",
+    "icon": "magic3/23.webp",
+    "chinese": "放出声响",
+    "japanese": "音送り",
+    "english": "Aural Decoy"
+  },
+  {
+    "id": "1370000",
+    "icon": "magic3/24.webp",
+    "chinese": "白龙吐息",
+    "japanese": "白竜の息",
+    "english": "White Dragon Breath"
+  },
+  {
+    "id": "1372000",
+    "icon": "magic3/25.webp",
+    "chinese": "法兰箭雨",
+    "japanese": "ファランの矢雨",
+    "english": "Farron Hail"
+  },
+  {
+    "id": "1373000",
+    "icon": "magic3/26.webp",
+    "chinese": "结晶降雹",
+    "japanese": "降り注ぐ結晶",
+    "english": "Crystal Hail"
+  },
+  {
+    "id": "1374000",
+    "icon": "magic3/27.webp",
+    "chinese": "灵魂大剑",
+    "japanese": "ソウルの大剣",
+    "english": "Soul Greatsword"
+  },
+  {
+    "id": "1375000",
+    "icon": "magic3/28.webp",
+    "chinese": "法兰快剑",
+    "japanese": "ファランの速剣",
+    "english": "Farron Flashsword"
+  },
+  {
+    "id": "1603000",
+    "icon": "magic3/29.webp",
+    "chinese": "追踪者",
+    "japanese": "追う者たち",
+    "english": "Affinity"
+  },
+  {
+    "id": "1613000",
+    "icon": "magic3/30.webp",
+    "chinese": "黑暗刀刃",
+    "japanese": "闇の刃",
+    "english": "Dark Edge"
+  },
+  {
+    "id": "1620000",
+    "icon": "magic3/31.webp",
+    "chinese": "灵魂激流",
+    "japanese": "ソウルの奔流",
+    "english": "Soul Stream"
+  },
+  {
+    "id": "1651000",
+    "icon": "magic3/32.webp",
+    "chinese": "扭曲光壁",
+    "japanese": "歪んだ光壁",
+    "english": "Twisted Wall of Light"
+  },
+  {
+    "id": "1740000",
+    "icon": "magic3/33.webp",
+    "chinese": "致命白雾",
+    "japanese": "致死の白霧",
+    "english": "Pestilent Mist"
+  },
+  {
+    "id": "2400000",
+    "icon": "magic3/34.webp",
+    "chinese": "火球",
+    "japanese": "火球",
+    "english": "Fireball"
+  },
+  {
+    "id": "2402000",
+    "icon": "magic3/35.webp",
+    "chinese": "火球弹",
+    "japanese": "火の玉",
+    "english": "Fire Orb"
+  },
+  {
+    "id": "2403000",
+    "icon": "magic3/36.webp",
+    "chinese": "火焰风暴",
+    "japanese": "炎の嵐",
+    "english": "Firestorm"
+  },
+  {
+    "id": "2405000",
+    "icon": "magic3/37.webp",
+    "chinese": "喷射火焰",
+    "japanese": "火炎噴流",
+    "english": "Fire Surge"
+  },
+  {
+    "id": "2407000",
+    "icon": "magic3/38.webp",
+    "chinese": "黑蛇",
+    "japanese": "黒蛇",
+    "english": "Black Serpent"
+  },
+  {
+    "id": "2411000",
+    "icon": "magic3/39.webp",
+    "chinese": "引燃烈火",
+    "japanese": "大発火",
+    "english": "Great Combustion"
+  },
+  {
+    "id": "2420000",
+    "icon": "magic3/40.webp",
+    "chinese": "毒雾",
+    "japanese": "毒の霧",
+    "english": "Poison Mist"
+  },
+  {
+    "id": "2421000",
+    "icon": "magic3/41.webp",
+    "chinese": "猛毒雾",
+    "japanese": "猛毒の霧",
+    "english": "Toxic Mist"
+  },
+  {
+    "id": "2422000",
+    "icon": "magic3/42.webp",
+    "chinese": "喷射酸液",
+    "japanese": "酸の噴射",
+    "english": "Acid Surge"
+  },
+  {
+    "id": "2430000",
+    "icon": "magic3/43.webp",
+    "chinese": "铁身躯",
+    "japanese": "鉄の体",
+    "english": "Iron Flesh"
+  },
+  {
+    "id": "2431000",
+    "icon": "magic3/44.webp",
+    "chinese": "剧烈出汗",
+    "japanese": "激しい発汗",
+    "english": "Flash Sweat"
+  },
+  {
+    "id": "2435000",
+    "icon": "magic3/45.webp",
+    "chinese": "卡萨斯的弯火",
+    "japanese": "カーサスの弧炎",
+    "english": "Carthus Flame Arc"
+  },
+  {
+    "id": "2436000",
+    "icon": "magic3/46.webp",
+    "chinese": "魅惑",
+    "japanese": "魅了",
+    "english": "Rapport"
+  },
+  {
+    "id": "2440000",
+    "icon": "magic3/47.webp",
+    "chinese": "内在潜力",
+    "japanese": "内なる大力",
+    "english": "Power Within"
+  },
+  {
+    "id": "2450000",
+    "icon": "magic3/48.webp",
+    "chinese": "混沌火球弹",
+    "japanese": "混沌の火の玉",
+    "english": "Great Chaos Fire Orb"
+  },
+  {
+    "id": "2451000",
+    "icon": "magic3/49.webp",
+    "chinese": "混沌风暴",
+    "japanese": "混沌の嵐",
+    "english": "Chaos Storm"
+  },
+  {
+    "id": "2452000",
+    "icon": "magic3/50.webp",
+    "chinese": "横扫火焰",
+    "japanese": "薙ぎ払う炎",
+    "english": "Fire Whip"
+  },
+  {
+    "id": "2453000",
+    "icon": "magic3/51.webp",
+    "chinese": "黑焰",
+    "japanese": "黒炎",
+    "english": "Black Flame"
+  },
+  {
+    "id": "2455000",
+    "icon": "magic3/52.webp",
+    "chinese": "罪业火焰",
+    "japanese": "罪の炎",
+    "english": "Profaned Flame"
+  },
+  {
+    "id": "2456000",
+    "icon": "magic3/53.webp",
+    "chinese": "温床残渣",
+    "japanese": "苗床の残滓",
+    "english": "Chaos Bed Vestiges"
+  },
+  {
+    "id": "2470000",
+    "icon": "magic3/54.webp",
+    "chinese": "温暖的火",
+    "japanese": "ぬくもりの火",
+    "english": "Warmth"
+  },
+  {
+    "id": "2562000",
+    "icon": "magic3/55.webp",
+    "chinese": "剧烈油汗",
+    "japanese": "激しい脂汗",
+    "english": "Profuse Sweat"
+  },
+  {
+    "id": "2610000",
+    "icon": "magic3/56.webp",
+    "chinese": "黑火球",
+    "japanese": "黒火球",
+    "english": "Black Fire Orb"
+  },
+  {
+    "id": "2620000",
+    "icon": "magic3/57.webp",
+    "chinese": "爆炸火球",
+    "japanese": "炸裂火球",
+    "english": "Bursting Fireball"
+  },
+  {
+    "id": "2630000",
+    "icon": "magic3/58.webp",
+    "chinese": "吐岩",
+    "japanese": "岩吐き",
+    "english": "Boulder Heave"
+  },
+  {
+    "id": "2640000",
+    "icon": "magic3/59.webp",
+    "chinese": "净化火焰",
+    "japanese": "浄火",
+    "english": "Sacred Flame"
+  },
+  {
+    "id": "2650000",
+    "icon": "magic3/60.webp",
+    "chinese": "卡萨斯的烽火",
+    "japanese": "カーサスの烽火",
+    "english": "Carthus Beacon"
+  },
+  {
+    "id": "3490000",
+    "icon": "magic3/61.webp",
+    "chinese": "略施恢复",
+    "japanese": "回復の施し",
+    "english": "Heal Aid"
+  },
+  {
+    "id": "3500000",
+    "icon": "magic3/62.webp",
+    "chinese": "恢复",
+    "japanese": "回復",
+    "english": "Heal"
+  },
+  {
+    "id": "3501000",
+    "icon": "magic3/63.webp",
+    "chinese": "中等恢复",
+    "japanese": "中回復",
+    "english": "Med Heal"
+  },
+  {
+    "id": "3502000",
+    "icon": "magic3/64.webp",
+    "chinese": "大恢复",
+    "japanese": "大回復",
+    "english": "Great Heal"
+  },
+  {
+    "id": "3503000",
+    "icon": "magic3/65.webp",
+    "chinese": "阳光疗愈",
+    "japanese": "太陽の光の癒し",
+    "english": "Soothing Sunlight"
+  },
+  {
+    "id": "3504000",
+    "icon": "magic3/66.webp",
+    "chinese": "生命力涌现",
+    "japanese": "生命湧き",
+    "english": "Replenishment"
+  },
+  {
+    "id": "3505000",
+    "icon": "magic3/67.webp",
+    "chinese": "阳光滋润",
+    "japanese": "太陽の光の恵み",
+    "english": "Bountiful Sunlight"
+  },
+  {
+    "id": "3507000",
+    "icon": "magic3/68.webp",
+    "chinese": "光芒恩惠",
+    "japanese": "光の恵み",
+    "english": "Bountiful Light"
+  },
+  {
+    "id": "3508000",
+    "icon": "magic3/69.webp",
+    "chinese": "治愈眼泪",
+    "japanese": "治癒の涙",
+    "english": "Caressing Tears"
+  },
+  {
+    "id": "3520000",
+    "icon": "magic3/70.webp",
+    "chinese": "惜别眼泪",
+    "japanese": "惜別の涙",
+    "english": "Tears of Denial"
+  },
+  {
+    "id": "3521000",
+    "icon": "magic3/71.webp",
+    "chinese": "返回",
+    "japanese": "家路",
+    "english": "Homeward"
+  },
+  {
+    "id": "3530000",
+    "icon": "magic3/72.webp",
+    "chinese": "原力",
+    "japanese": "フォース",
+    "english": "Force"
+  },
+  {
+    "id": "3531000",
+    "icon": "magic3/73.webp",
+    "chinese": "诸神之怒",
+    "japanese": "神の怒り",
+    "english": "Wrath of the Gods"
+  },
+  {
+    "id": "3532000",
+    "icon": "magic3/74.webp",
+    "chinese": "原力并射",
+    "japanese": "放つフォース",
+    "english": "Emit Force"
+  },
+  {
+    "id": "3540000",
+    "icon": "magic3/75.webp",
+    "chinese": "寻求建言",
+    "japanese": "助言求め",
+    "english": "Seek Guidance"
+  },
+  {
+    "id": "3550000",
+    "icon": "magic3/76.webp",
+    "chinese": "雷枪",
+    "japanese": "雷の槍",
+    "english": "Lightning Spear"
+  },
+  {
+    "id": "3551000",
+    "icon": "magic3/77.webp",
+    "chinese": "巨雷枪",
+    "japanese": "雷の大槍",
+    "english": "Great Lightning Spear"
+  },
+  {
+    "id": "3552000",
+    "icon": "magic3/78.webp",
+    "chinese": "阳光之枪",
+    "japanese": "太陽の光の槍",
+    "english": "Sunlight Spear"
+  },
+  {
+    "id": "3553000",
+    "icon": "magic3/79.webp",
+    "chinese": "风暴落雷",
+    "japanese": "嵐の落雷",
+    "english": "Lightning Storm"
+  },
+  {
+    "id": "3554000",
+    "icon": "magic3/80.webp",
+    "chinese": "侵蚀",
+    "japanese": "蝕み",
+    "english": "Gnaw"
+  },
+  {
+    "id": "3555000",
+    "icon": "magic3/81.webp",
+    "chinese": "朵丽丝的侵蚀",
+    "japanese": "ドーリスの蝕み",
+    "english": "Dorhys' Gnawing"
+  },
+  {
+    "id": "3560000",
+    "icon": "magic3/82.webp",
+    "chinese": "魔力防护",
+    "japanese": "魔力防護",
+    "english": "Magic Barrier"
+  },
+  {
+    "id": "3561000",
+    "icon": "magic3/83.webp",
+    "chinese": "大魔力防护",
+    "japanese": "大魔力防護",
+    "english": "Great Magic Barrier"
+  },
+  {
+    "id": "3563000",
+    "icon": "magic3/84.webp",
+    "chinese": "金石之誓",
+    "japanese": "固い誓い",
+    "english": "Sacred Oath"
+  },
+  {
+    "id": "3581000",
+    "icon": "magic3/85.webp",
+    "chinese": "沉默禁令",
+    "japanese": "沈黙の禁則",
+    "english": "Vow of Silence"
+  },
+  {
+    "id": "3590000",
+    "icon": "magic3/86.webp",
+    "chinese": "雷电剑",
+    "japanese": "雷の剣",
+    "english": "Lightning Blade"
+  },
+  {
+    "id": "3591000",
+    "icon": "magic3/87.webp",
+    "chinese": "暗月光剑",
+    "japanese": "暗月の光の剣",
+    "english": "Darkmoon Blade"
+  },
+  {
+    "id": "3640000",
+    "icon": "magic3/88.webp",
+    "chinese": "黑剑",
+    "japanese": "黒剣",
+    "english": "Dark Blade"
+  },
+  {
+    "id": "3700000",
+    "icon": "magic3/89.webp",
+    "chinese": "死者活化",
+    "japanese": "死者の活性",
+    "english": "Dead Again"
+  },
+  {
+    "id": "3710000",
+    "icon": "magic3/90.webp",
+    "chinese": "雷电柱",
+    "japanese": "雷の杭",
+    "english": "Lightning Stake"
+  },
+  {
+    "id": "3720000",
+    "icon": "magic3/91.webp",
+    "chinese": "天使光柱",
+    "japanese": "天使の光柱",
+    "english": "Divine Pillars of Light"
+  },
+  {
+    "id": "3730000",
+    "icon": "magic3/92.webp",
+    "chinese": "猎命镰刀",
+    "japanese": "生命狩りの鎌",
+    "english": "Lifehunt Scythe"
+  },
+  {
+    "id": "3760000",
+    "icon": "magic3/93.webp",
+    "chinese": "祝福武器",
+    "japanese": "武器の祝福",
+    "english": "Blessed Weapon"
+  },
+  {
+    "id": "3770000",
+    "icon": "magic3/94.webp",
+    "chinese": "幽邃庇佑",
+    "japanese": "深みの加護",
+    "english": "Deep Protection"
+  },
+  {
+    "id": "3780000",
+    "icon": "magic3/95.webp",
+    "chinese": "赎罪",
+    "japanese": "贖罪",
+    "english": "Atonement"
+  },
+  {
+    "id": "1313000",
+    "icon": "magic3/96.webp",
+    "chinese": "冰冷武器",
+    "japanese": "冷たい武器",
+    "english": "Frozen Weapon"
+  },
+  {
+    "id": "1741000",
+    "icon": "magic3/97.webp",
+    "chinese": "瞬间冻结",
+    "japanese": "瞬間凍結",
+    "english": "Snap Freeze"
+  },
+  {
+    "id": "2457000",
+    "icon": "magic3/98.webp",
+    "chinese": "浮空混沌",
+    "japanese": "浮かぶ混沌",
+    "english": "Floating Chaos"
+  },
+  {
+    "id": "3556000",
+    "icon": "magic3/99.webp",
+    "chinese": "白教光环",
+    "japanese": "白教の輪",
+    "english": "Way of White Corona"
+  },
+  {
+    "id": "1376000",
+    "icon": "magic3/100.webp",
+    "chinese": "古老月光",
+    "japanese": "古き月光",
+    "english": "Old Moonlight"
+  },
+  {
+    "id": "1604000",
+    "icon": "magic3/101.webp",
+    "chinese": "大块灵魂沉淀物",
+    "japanese": "ソウルの大澱",
+    "english": "Great Soul Dregs"
+  },
+  {
+    "id": "2458000",
+    "icon": "magic3/102.webp",
+    "chinese": "火焰扇",
+    "japanese": "炎の扇",
+    "english": "Flame Fan"
+  },
+  {
+    "id": "2660000",
+    "icon": "magic3/103.webp",
+    "chinese": "沸腾混沌",
+    "japanese": "たぎる混沌",
+    "english": "Seething Chaos"
+  },
+  {
+    "id": "3509000",
+    "icon": "magic3/104.webp",
+    "chinese": "雷电箭",
+    "japanese": "雷の矢",
+    "english": "Lightning Arrow"
+  },
+  {
+    "id": "3557000",
+    "icon": "magic3/105.webp",
+    "chinese": "释放恢复",
+    "japanese": "放つ回復",
+    "english": "Projected Heal"
+  }
+]

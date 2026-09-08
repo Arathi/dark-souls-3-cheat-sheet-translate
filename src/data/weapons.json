@@ -1,0 +1,2137 @@
+[
+  {
+    "id": "1000000",
+    "icon": "weapon3/0.webp",
+    "chinese": "匕首",
+    "japanese": "ダガー",
+    "english": "Dagger"
+  },
+  {
+    "id": "1010000",
+    "icon": "weapon3/1.webp",
+    "chinese": "盗贼短刀",
+    "japanese": "盗人の短刀",
+    "english": "Bandit's Knife"
+  },
+  {
+    "id": "1020000",
+    "icon": "weapon3/2.webp",
+    "chinese": "格挡匕首",
+    "japanese": "パリングダガー",
+    "english": "Parrying Dagger"
+  },
+  {
+    "id": "1040000",
+    "icon": "weapon3/3.webp",
+    "chinese": "咕鲁腐败短刀",
+    "japanese": "グルーの腐れ短刀",
+    "english": "Rotten Ghru Dagger"
+  },
+  {
+    "id": "1060000",
+    "icon": "weapon3/4.webp",
+    "chinese": "镰刀剑",
+    "japanese": "ハルパー",
+    "english": "Harpe"
+  },
+  {
+    "id": "1070000",
+    "icon": "weapon3/5.webp",
+    "chinese": "贤者烛台",
+    "japanese": "賢者の燭台",
+    "english": "Scholar's Candlestick"
+  },
+  {
+    "id": "1080000",
+    "icon": "weapon3/6.webp",
+    "chinese": "尾骨短剑",
+    "japanese": "尾骨の短剣",
+    "english": "Tailbone Short Sword"
+  },
+  {
+    "id": "1090000",
+    "icon": "weapon3/7.webp",
+    "chinese": "鸦人大短刀",
+    "japanese": "鴉人の大短刀",
+    "english": "Corvian Greatknife"
+  },
+  {
+    "id": "1120000",
+    "icon": "weapon3/8.webp",
+    "chinese": "侍女短剑",
+    "japanese": "侍女の短剣",
+    "english": "Handmaid's Dagger"
+  },
+  {
+    "id": "2000000",
+    "icon": "weapon3/9.webp",
+    "chinese": "短剑",
+    "japanese": "ショートソード",
+    "english": "Shortsword"
+  },
+  {
+    "id": "2010000",
+    "icon": "weapon3/10.webp",
+    "chinese": "长剑",
+    "japanese": "ロングソード",
+    "english": "Long Sword"
+  },
+  {
+    "id": "2020000",
+    "icon": "weapon3/11.webp",
+    "chinese": "阔剑",
+    "japanese": "ブロードソード",
+    "english": "Broadsword"
+  },
+  {
+    "id": "2030000",
+    "icon": "weapon3/12.webp",
+    "chinese": "已折断的直剑",
+    "japanese": "折れた直剣",
+    "english": "Broken Straight Sword"
+  },
+  {
+    "id": "2060000",
+    "icon": "weapon3/13.webp",
+    "chinese": "洛斯里克骑士剑",
+    "japanese": "ロスリック騎士の剣",
+    "english": "Lothric Knight Sword"
+  },
+  {
+    "id": "2110000",
+    "icon": "weapon3/14.webp",
+    "chinese": "太阳直剑",
+    "japanese": "太陽の直剣",
+    "english": "Sunlight Straight Sword"
+  },
+  {
+    "id": "2120000",
+    "icon": "weapon3/15.webp",
+    "chinese": "咕鲁腐败曲刀",
+    "japanese": "グルーの腐れ曲刀",
+    "english": "Rotten Ghru Curved Sword"
+  },
+  {
+    "id": "2140000",
+    "icon": "weapon3/16.webp",
+    "chinese": "伊鲁席尔直剑",
+    "japanese": "イルシールの直剣",
+    "english": "Irithyll Straight Sword"
+  },
+  {
+    "id": "2160000",
+    "icon": "weapon3/17.webp",
+    "chinese": "圣者烛台",
+    "japanese": "聖者の燭台",
+    "english": "Cleric's Candlestick"
+  },
+  {
+    "id": "2180000",
+    "icon": "weapon3/18.webp",
+    "chinese": "摩利安刃剑",
+    "japanese": "モーリオンブレード",
+    "english": "Morion Blade"
+  },
+  {
+    "id": "2200000",
+    "icon": "weapon3/19.webp",
+    "chinese": "亚斯特拉直剑",
+    "japanese": "アストラの直剣",
+    "english": "Astora Straight Sword"
+  },
+  {
+    "id": "2210000",
+    "icon": "weapon3/20.webp",
+    "chinese": "刺针直剑",
+    "japanese": "トゲの直剣",
+    "english": "Barbed Straight Sword"
+  },
+  {
+    "id": "2220000",
+    "icon": "weapon3/21.webp",
+    "chinese": "处刑者大剑",
+    "japanese": "処刑人の大剣",
+    "english": "Executioner's Greatsword"
+  },
+  {
+    "id": "2230000",
+    "icon": "weapon3/22.webp",
+    "chinese": "安里的直剑",
+    "japanese": "アンリの直剣",
+    "english": "Anri's Straight Sword"
+  },
+  {
+    "id": "3000000",
+    "icon": "weapon3/23.webp",
+    "chinese": "刺剑",
+    "japanese": "エストック",
+    "english": "Estoc"
+  },
+  {
+    "id": "3010000",
+    "icon": "weapon3/24.webp",
+    "chinese": "破甲细剑",
+    "japanese": "鎧貫き",
+    "english": "Mail Breaker"
+  },
+  {
+    "id": "3020000",
+    "icon": "weapon3/25.webp",
+    "chinese": "细剑",
+    "japanese": "レイピア",
+    "english": "Rapier"
+  },
+  {
+    "id": "3030000",
+    "icon": "weapon3/26.webp",
+    "chinese": "里卡尔刺剑",
+    "japanese": "リカールの刺剣",
+    "english": "Ricard's Rapier"
+  },
+  {
+    "id": "3040000",
+    "icon": "weapon3/27.webp",
+    "chinese": "结晶老者刺剑",
+    "japanese": "結晶古老の刺剣",
+    "english": "Crystal Sage's Rapier"
+  },
+  {
+    "id": "3050000",
+    "icon": "weapon3/28.webp",
+    "chinese": "伊鲁席尔刺剑",
+    "japanese": "イルシールの刺剣",
+    "english": "Irithyll Rapier"
+  },
+  {
+    "id": "4010000",
+    "icon": "weapon3/29.webp",
+    "chinese": "钩剑",
+    "japanese": "ショーテル",
+    "english": "Shotel"
+  },
+  {
+    "id": "4030000",
+    "icon": "weapon3/30.webp",
+    "chinese": "短弯刀",
+    "japanese": "シミター",
+    "english": "Scimitar"
+  },
+  {
+    "id": "4040000",
+    "icon": "weapon3/31.webp",
+    "chinese": "弯刃大刀",
+    "japanese": "ファルシオン",
+    "english": "Falchion"
+  },
+  {
+    "id": "4050000",
+    "icon": "weapon3/32.webp",
+    "chinese": "卡萨斯曲刀",
+    "japanese": "カーサスの曲刀",
+    "english": "Carthus Curved Sword"
+  },
+  {
+    "id": "4060000",
+    "icon": "weapon3/33.webp",
+    "chinese": "卡萨斯大曲刀",
+    "japanese": "カーサスの大曲刀",
+    "english": "Carthus Curved Greatsword"
+  },
+  {
+    "id": "4070000",
+    "icon": "weapon3/34.webp",
+    "chinese": "教宗骑士曲剑",
+    "japanese": "法王騎士の曲剣",
+    "english": "Pontiff Knight Curved Sword"
+  },
+  {
+    "id": "4080000",
+    "icon": "weapon3/35.webp",
+    "chinese": "风暴曲剑",
+    "japanese": "嵐の曲剣",
+    "english": "Storm Curved Sword"
+  },
+  {
+    "id": "4090000",
+    "icon": "weapon3/36.webp",
+    "chinese": "绘画使者曲剑",
+    "japanese": "絵画使者の曲剣",
+    "english": "Painting Guardian's Curved Sword"
+  },
+  {
+    "id": "4100000",
+    "icon": "weapon3/37.webp",
+    "chinese": "月牙曲剑",
+    "japanese": "欠け月の曲剣",
+    "english": "Crescent Moon Sword"
+  },
+  {
+    "id": "4110000",
+    "icon": "weapon3/38.webp",
+    "chinese": "卡萨斯钩剑",
+    "japanese": "カーサスの鉤刀",
+    "english": "Carthus Shotel"
+  },
+  {
+    "id": "5000000",
+    "icon": "weapon3/39.webp",
+    "chinese": "打刀",
+    "japanese": "打刀",
+    "english": "Uchigatana"
+  },
+  {
+    "id": "5010000",
+    "icon": "weapon3/40.webp",
+    "chinese": "晾衣长刀",
+    "japanese": "物干し竿",
+    "english": "Washing Pole"
+  },
+  {
+    "id": "5020000",
+    "icon": "weapon3/41.webp",
+    "chinese": "混沌刀刃",
+    "japanese": "混沌の刃",
+    "english": "Chaos Blade"
+  },
+  {
+    "id": "5030000",
+    "icon": "weapon3/42.webp",
+    "chinese": "黑刀",
+    "japanese": "黒刀",
+    "english": "Black Blade"
+  },
+  {
+    "id": "5040000",
+    "icon": "weapon3/43.webp",
+    "chinese": "血癫狂",
+    "japanese": "血狂い",
+    "english": "Bloodlust"
+  },
+  {
+    "id": "5050000",
+    "icon": "weapon3/44.webp",
+    "chinese": "暗胧",
+    "japanese": "闇朧",
+    "english": "Darkdrift"
+  },
+  {
+    "id": "6000000",
+    "icon": "weapon3/45.webp",
+    "chinese": "混种大剑",
+    "japanese": "バスタードソード",
+    "english": "Bastard Sword"
+  },
+  {
+    "id": "6020000",
+    "icon": "weapon3/46.webp",
+    "chinese": "大剑",
+    "japanese": "クレイモア",
+    "english": "Claymore"
+  },
+  {
+    "id": "6040000",
+    "icon": "weapon3/47.webp",
+    "chinese": "双手巨剑",
+    "japanese": "ツヴァイヘンダー",
+    "english": "Zweihander"
+  },
+  {
+    "id": "6050000",
+    "icon": "weapon3/48.webp",
+    "chinese": "巨剑",
+    "japanese": "グレートソード",
+    "english": "Greatsword"
+  },
+  {
+    "id": "6070000",
+    "icon": "weapon3/49.webp",
+    "chinese": "亚斯特拉大剑",
+    "japanese": "アストラの大剣",
+    "english": "Astora Greatsword"
+  },
+  {
+    "id": "6080000",
+    "icon": "weapon3/50.webp",
+    "chinese": "丛云",
+    "japanese": "ムラクモ",
+    "english": "Murakumo"
+  },
+  {
+    "id": "6100000",
+    "icon": "weapon3/51.webp",
+    "chinese": "洛斯里克骑士大剑",
+    "japanese": "ロスリック騎士の大剣",
+    "english": "Lothric Knight Greatsword"
+  },
+  {
+    "id": "6130000",
+    "icon": "weapon3/52.webp",
+    "chinese": "黑骑士大剑",
+    "japanese": "黒騎士の大剣",
+    "english": "Black Knight Greatsword"
+  },
+  {
+    "id": "6140000",
+    "icon": "weapon3/53.webp",
+    "chinese": "焰形大剑",
+    "japanese": "フランベルジェ",
+    "english": "Flamberge"
+  },
+  {
+    "id": "6150000",
+    "icon": "weapon3/54.webp",
+    "chinese": "流放者大刀",
+    "japanese": "流刑人の大刀",
+    "english": "Exile Greatsword"
+  },
+  {
+    "id": "6170000",
+    "icon": "weapon3/55.webp",
+    "chinese": "制裁大剑",
+    "japanese": "裁きの大剣",
+    "english": "Greatsword of Judgment"
+  },
+  {
+    "id": "6180000",
+    "icon": "weapon3/56.webp",
+    "chinese": "罪业大剑",
+    "japanese": "罪の大剣",
+    "english": "Profaned Greatsword"
+  },
+  {
+    "id": "6190000",
+    "icon": "weapon3/57.webp",
+    "chinese": "教堂骑士大剑",
+    "japanese": "聖堂騎士の大剣",
+    "english": "Cathedral Knight Greatsword"
+  },
+  {
+    "id": "6200000",
+    "icon": "weapon3/58.webp",
+    "chinese": "法兰大剑",
+    "japanese": "ファランの大剣",
+    "english": "Farron Greatsword"
+  },
+  {
+    "id": "6230000",
+    "icon": "weapon3/59.webp",
+    "chinese": "尤姆大柴刀",
+    "japanese": "ヨームの大鉈",
+    "english": "Yhorm's Great Machete"
+  },
+  {
+    "id": "6240000",
+    "icon": "weapon3/60.webp",
+    "chinese": "黑暗剑",
+    "japanese": "ダークソード",
+    "english": "Dark Sword"
+  },
+  {
+    "id": "6250000",
+    "icon": "weapon3/61.webp",
+    "chinese": "黑骑士剑",
+    "japanese": "黒騎士の剣",
+    "english": "Black Knight Sword"
+  },
+  {
+    "id": "6260000",
+    "icon": "weapon3/62.webp",
+    "chinese": "洛里安大剑",
+    "japanese": "ローリアンの大剣",
+    "english": "Lorian's Greatsword"
+  },
+  {
+    "id": "6270000",
+    "icon": "weapon3/63.webp",
+    "chinese": "孪生王子大剑",
+    "japanese": "双王子の大剣",
+    "english": "Twin Princes' Greatsword"
+  },
+  {
+    "id": "6280000",
+    "icon": "weapon3/64.webp",
+    "chinese": "洛斯里克圣剑",
+    "japanese": "ロスリックの聖剣",
+    "english": "Lothric's Holy Sword"
+  },
+  {
+    "id": "6290000",
+    "icon": "weapon3/65.webp",
+    "chinese": "沃尼尔圣剑",
+    "japanese": "ウォルニールの聖剣",
+    "english": "Wolnir's Holy Sword"
+  },
+  {
+    "id": "6300000",
+    "icon": "weapon3/66.webp",
+    "chinese": "狼骑士大剑",
+    "japanese": "狼騎士の大剣",
+    "english": "Wolf Knight's Greatsword"
+  },
+  {
+    "id": "6310000",
+    "icon": "weapon3/67.webp",
+    "chinese": "猎杀游魂大剑",
+    "japanese": "亡者狩りの大剣",
+    "english": "Hollowslayer Greatsword"
+  },
+  {
+    "id": "6320000",
+    "icon": "weapon3/68.webp",
+    "chinese": "月光大剑",
+    "japanese": "月光の大剣",
+    "english": "Moonlight Greatsword"
+  },
+  {
+    "id": "6330000",
+    "icon": "weapon3/69.webp",
+    "chinese": "龙血大剑",
+    "japanese": "竜血の大剣",
+    "english": "Drakeblood Greatsword"
+  },
+  {
+    "id": "6340000",
+    "icon": "weapon3/70.webp",
+    "chinese": "传火大剑",
+    "japanese": "火継ぎの大剣",
+    "english": "Firelink Greatsword"
+  },
+  {
+    "id": "6350000",
+    "icon": "weapon3/71.webp",
+    "chinese": "漫烟特大剑",
+    "japanese": "煙の特大剣",
+    "english": "Fume Ultra Greatsword"
+  },
+  {
+    "id": "6360000",
+    "icon": "weapon3/72.webp",
+    "chinese": "老狼曲剑",
+    "japanese": "老狼の曲剣",
+    "english": "Old Wolf Curved Sword"
+  },
+  {
+    "id": "6370000",
+    "icon": "weapon3/73.webp",
+    "chinese": "风暴管束者",
+    "japanese": "ストームルーラー",
+    "english": "Storm Ruler"
+  },
+  {
+    "id": "7000000",
+    "icon": "weapon3/74.webp",
+    "chinese": "手斧",
+    "japanese": "ハンドアクス",
+    "english": "Hand Axe"
+  },
+  {
+    "id": "7010000",
+    "icon": "weapon3/75.webp",
+    "chinese": "战斧",
+    "japanese": "バトルアクス",
+    "english": "Battle Axe"
+  },
+  {
+    "id": "7020000",
+    "icon": "weapon3/76.webp",
+    "chinese": "山贼斧",
+    "japanese": "山賊の斧",
+    "english": "Brigand Axe"
+  },
+  {
+    "id": "7040000",
+    "icon": "weapon3/77.webp",
+    "chinese": "弦月斧",
+    "japanese": "三日月斧",
+    "english": "Crescent Axe"
+  },
+  {
+    "id": "7050000",
+    "icon": "weapon3/78.webp",
+    "chinese": "巨斧",
+    "japanese": "グレートアクス",
+    "english": "Greataxe"
+  },
+  {
+    "id": "7070000",
+    "icon": "weapon3/79.webp",
+    "chinese": "切肉菜刀",
+    "japanese": "肉断ち包丁",
+    "english": "Butcher Knife"
+  },
+  {
+    "id": "7080000",
+    "icon": "weapon3/80.webp",
+    "chinese": "屠龙斧",
+    "japanese": "竜断の斧",
+    "english": "Dragonslayer's Axe"
+  },
+  {
+    "id": "7100000",
+    "icon": "weapon3/81.webp",
+    "chinese": "奴隶手斧",
+    "japanese": "奴隷の手斧",
+    "english": "Thrall Axe"
+  },
+  {
+    "id": "7110000",
+    "icon": "weapon3/82.webp",
+    "chinese": "猎龙大斧",
+    "japanese": "竜狩りの大斧",
+    "english": "Dragonslayer Greataxe"
+  },
+  {
+    "id": "7120000",
+    "icon": "weapon3/83.webp",
+    "chinese": "恶魔大斧",
+    "japanese": "デーモンの大斧",
+    "english": "Demon's Greataxe"
+  },
+  {
+    "id": "7130000",
+    "icon": "weapon3/84.webp",
+    "chinese": "艾莲诺拉",
+    "japanese": "エレオノーラ",
+    "english": "Eleonora"
+  },
+  {
+    "id": "7150000",
+    "icon": "weapon3/85.webp",
+    "chinese": "蛇人柴刀",
+    "japanese": "蛇人の鉈",
+    "english": "Man Serpent Hatchet"
+  },
+  {
+    "id": "8000000",
+    "icon": "weapon3/86.webp",
+    "chinese": "棍棒",
+    "japanese": "クラブ",
+    "english": "Club"
+  },
+  {
+    "id": "8010000",
+    "icon": "weapon3/87.webp",
+    "chinese": "锤矛",
+    "japanese": "メイス",
+    "english": "Mace"
+  },
+  {
+    "id": "8020000",
+    "icon": "weapon3/88.webp",
+    "chinese": "朝星锤",
+    "japanese": "モーニングスター",
+    "english": "Morning Star"
+  },
+  {
+    "id": "8030000",
+    "icon": "weapon3/89.webp",
+    "chinese": "强化棍棒",
+    "japanese": "強化クラブ",
+    "english": "Reinforced Club"
+  },
+  {
+    "id": "8060000",
+    "icon": "weapon3/90.webp",
+    "chinese": "大型棍棒",
+    "japanese": "ラージクラブ",
+    "english": "Large Club"
+  },
+  {
+    "id": "8080000",
+    "icon": "weapon3/91.webp",
+    "chinese": "巨型棍棒",
+    "japanese": "グレートクラブ",
+    "english": "Great Club"
+  },
+  {
+    "id": "8110000",
+    "icon": "weapon3/92.webp",
+    "chinese": "巨型锤矛",
+    "japanese": "グレートメイス",
+    "english": "Great Mace"
+  },
+  {
+    "id": "8160000",
+    "icon": "weapon3/93.webp",
+    "chinese": "大木槌",
+    "japanese": "大木槌",
+    "english": "Great Wooden Hammer"
+  },
+  {
+    "id": "8170000",
+    "icon": "weapon3/94.webp",
+    "chinese": "石像鬼灯火槌",
+    "japanese": "ガーゴイルの灯火槌",
+    "english": "Gargoyle Flame Hammer"
+  },
+  {
+    "id": "8180000",
+    "icon": "weapon3/95.webp",
+    "chinese": "玻尔多大锤",
+    "japanese": "ボルドの大槌",
+    "english": "Vordt's Great Hammer"
+  },
+  {
+    "id": "8190000",
+    "icon": "weapon3/96.webp",
+    "chinese": "老王大槌",
+    "japanese": "老王の大槌",
+    "english": "Old King's Great Hammer"
+  },
+  {
+    "id": "8220000",
+    "icon": "weapon3/97.webp",
+    "chinese": "海泽儿的十字镐",
+    "japanese": "ヘイゼルのつるはし",
+    "english": "Heysel Pick"
+  },
+  {
+    "id": "8240000",
+    "icon": "weapon3/98.webp",
+    "chinese": "战镐",
+    "japanese": "ウォーピック",
+    "english": "Warpick"
+  },
+  {
+    "id": "8250000",
+    "icon": "weapon3/99.webp",
+    "chinese": "十字镐",
+    "japanese": "つるはし",
+    "english": "Pickaxe"
+  },
+  {
+    "id": "8260000",
+    "icon": "weapon3/100.webp",
+    "chinese": "大龙牙",
+    "japanese": "大竜牙",
+    "english": "Dragon Tooth"
+  },
+  {
+    "id": "8270000",
+    "icon": "weapon3/101.webp",
+    "chinese": "斯摩的锤子",
+    "japanese": "スモウの大槌",
+    "english": "Smough's Great Hammer"
+  },
+  {
+    "id": "8280000",
+    "icon": "weapon3/102.webp",
+    "chinese": "铁匠铁锤",
+    "japanese": "鍛冶屋の金槌",
+    "english": "Blacksmith Hammer"
+  },
+  {
+    "id": "8290000",
+    "icon": "weapon3/103.webp",
+    "chinese": "摩恩大锤",
+    "japanese": "モーンの大槌",
+    "english": "Morne's Great Hammer"
+  },
+  {
+    "id": "8300000",
+    "icon": "weapon3/104.webp",
+    "chinese": "尖刺锤矛",
+    "japanese": "スパイクメイス",
+    "english": "Spiked Mace"
+  },
+  {
+    "id": "9000000",
+    "icon": "weapon3/105.webp",
+    "chinese": "枪",
+    "japanese": "スピア",
+    "english": "Spear"
+  },
+  {
+    "id": "9010000",
+    "icon": "weapon3/106.webp",
+    "chinese": "雁翅枪",
+    "japanese": "ウィングドスピア",
+    "english": "Winged Spear"
+  },
+  {
+    "id": "9030000",
+    "icon": "weapon3/107.webp",
+    "chinese": "游击枪",
+    "japanese": "パルチザン",
+    "english": "Partizan"
+  },
+  {
+    "id": "9080000",
+    "icon": "weapon3/108.webp",
+    "chinese": "巨骑枪",
+    "japanese": "グレートランス",
+    "english": "Greatlance"
+  },
+  {
+    "id": "9090000",
+    "icon": "weapon3/109.webp",
+    "chinese": "洛斯里克骑士长枪",
+    "japanese": "ロスリック騎士の長槍",
+    "english": "Lothric Knight Long Spear"
+  },
+  {
+    "id": "9100000",
+    "icon": "weapon3/110.webp",
+    "chinese": "四齿钉耙",
+    "japanese": "四又鋤",
+    "english": "Four-Pronged Plow"
+  },
+  {
+    "id": "9110000",
+    "icon": "weapon3/111.webp",
+    "chinese": "石像鬼灯火枪",
+    "japanese": "ガーゴイルの灯火槍",
+    "english": "Gargoyle Flame Spear"
+  },
+  {
+    "id": "9120000",
+    "icon": "weapon3/112.webp",
+    "chinese": "咕鲁腐败枪",
+    "japanese": "グルーの腐れ槍",
+    "english": "Rotten Ghru Spear"
+  },
+  {
+    "id": "9130000",
+    "icon": "weapon3/113.webp",
+    "chinese": "尾骨枪",
+    "japanese": "尾骨の槍",
+    "english": "Tailbone Spear"
+  },
+  {
+    "id": "9140000",
+    "icon": "weapon3/114.webp",
+    "chinese": "烙铁",
+    "japanese": "焼きごて",
+    "english": "Soldering Iron"
+  },
+  {
+    "id": "9160000",
+    "icon": "weapon3/115.webp",
+    "chinese": "猎龙剑枪",
+    "japanese": "竜狩りの剣槍",
+    "english": "Dragonslayer Swordspear"
+  },
+  {
+    "id": "9170000",
+    "icon": "weapon3/116.webp",
+    "chinese": "阿尔斯特枪",
+    "japanese": "アルスターの槍",
+    "english": "Arstor's Spear"
+  },
+  {
+    "id": "9180000",
+    "icon": "weapon3/117.webp",
+    "chinese": "圣者双叉枪",
+    "japanese": "聖者の二股槍",
+    "english": "Saint Bident"
+  },
+  {
+    "id": "9190000",
+    "icon": "weapon3/118.webp",
+    "chinese": "幽儿希卡枪",
+    "japanese": "ヨルシカの槍",
+    "english": "Yorshka's Spear"
+  },
+  {
+    "id": "9200000",
+    "icon": "weapon3/119.webp",
+    "chinese": "矛",
+    "japanese": "パイク",
+    "english": "Pike"
+  },
+  {
+    "id": "9220000",
+    "icon": "weapon3/120.webp",
+    "chinese": "猎龙枪",
+    "japanese": "竜狩りの槍",
+    "english": "Dragonslayer Spear"
+  },
+  {
+    "id": "10000000",
+    "icon": "weapon3/121.webp",
+    "chinese": "大镰刀",
+    "japanese": "大鎌",
+    "english": "Great Scythe"
+  },
+  {
+    "id": "10010000",
+    "icon": "weapon3/122.webp",
+    "chinese": "鹤嘴戟",
+    "japanese": "ルッツエルン",
+    "english": "Lucerne"
+  },
+  {
+    "id": "10020000",
+    "icon": "weapon3/123.webp",
+    "chinese": "剑刃戟",
+    "japanese": "グレイブ",
+    "english": "Glaive"
+  },
+  {
+    "id": "10030000",
+    "icon": "weapon3/124.webp",
+    "chinese": "戟",
+    "japanese": "ハルバード",
+    "english": "Halberd"
+  },
+  {
+    "id": "10050000",
+    "icon": "weapon3/125.webp",
+    "chinese": "黑骑士大斧",
+    "japanese": "黒騎士の大斧",
+    "english": "Black Knight Greataxe"
+  },
+  {
+    "id": "10070000",
+    "icon": "weapon3/126.webp",
+    "chinese": "教宗骑士大镰刀",
+    "japanese": "法王騎士の大鎌",
+    "english": "Pontiff Knight Great Scythe"
+  },
+  {
+    "id": "10080000",
+    "icon": "weapon3/127.webp",
+    "chinese": "鸦人大镰刀",
+    "japanese": "鴉人の大鎌",
+    "english": "Great Corvian Scythe"
+  },
+  {
+    "id": "10090000",
+    "icon": "weapon3/128.webp",
+    "chinese": "羽翼骑士戟",
+    "japanese": "羽の騎士の斧槍",
+    "english": "Winged Knight Halberd"
+  },
+  {
+    "id": "10100000",
+    "icon": "weapon3/129.webp",
+    "chinese": "古达的戟",
+    "japanese": "グンダの斧槍",
+    "english": "Gundyr's Halberd"
+  },
+  {
+    "id": "10140000",
+    "icon": "weapon3/130.webp",
+    "chinese": "红柄戟",
+    "japanese": "赤柄のハルバード",
+    "english": "Red Hilted Halberd"
+  },
+  {
+    "id": "10150000",
+    "icon": "weapon3/131.webp",
+    "chinese": "黑骑士剑刃戟",
+    "japanese": "黒騎士のグレイブ",
+    "english": "Black Knight Glaive"
+  },
+  {
+    "id": "10160000",
+    "icon": "weapon3/132.webp",
+    "chinese": "火刑光芒",
+    "japanese": "火刑の芒",
+    "english": "Immolation Tinder"
+  },
+  {
+    "id": "11000000",
+    "icon": "weapon3/133.webp",
+    "chinese": "钩爪",
+    "japanese": "かぎ爪",
+    "english": "Claw"
+  },
+  {
+    "id": "11010000",
+    "icon": "weapon3/134.webp",
+    "chinese": "护手带",
+    "japanese": "セスタス",
+    "english": "Caestus"
+  },
+  {
+    "id": "11020000",
+    "icon": "weapon3/135.webp",
+    "chinese": "傀儡钩爪",
+    "japanese": "傀儡の鉤爪",
+    "english": "Manikin Claws"
+  },
+  {
+    "id": "11030000",
+    "icon": "weapon3/136.webp",
+    "chinese": "恶魔指虎",
+    "japanese": "デーモンナックル",
+    "english": "Demon's Fist"
+  },
+  {
+    "id": "11040000",
+    "icon": "weapon3/137.webp",
+    "chinese": "黑暗之手",
+    "japanese": "ダークハンド",
+    "english": "Dark Hand"
+  },
+  {
+    "id": "12000000",
+    "icon": "weapon3/138.webp",
+    "chinese": "软鞭",
+    "japanese": "ウィップ",
+    "english": "Whip"
+  },
+  {
+    "id": "12040000",
+    "icon": "weapon3/139.webp",
+    "chinese": "魔女黑发",
+    "japanese": "魔女の黒髪",
+    "english": "Witch's Locks"
+  },
+  {
+    "id": "12050000",
+    "icon": "weapon3/140.webp",
+    "chinese": "荆棘软鞭",
+    "japanese": "イバラムチ",
+    "english": "Notched Whip"
+  },
+  {
+    "id": "12060000",
+    "icon": "weapon3/141.webp",
+    "chinese": "斑斓鞭",
+    "japanese": "まだらムチ",
+    "english": "Spotted Whip"
+  },
+  {
+    "id": "13050000",
+    "icon": "weapon3/142.webp",
+    "chinese": "护符",
+    "japanese": "タリスマン",
+    "english": "Talisman"
+  },
+  {
+    "id": "13060000",
+    "icon": "weapon3/143.webp",
+    "chinese": "魔法师杖",
+    "japanese": "魔術師の杖",
+    "english": "Sorcerer's Staff"
+  },
+  {
+    "id": "13070000",
+    "icon": "weapon3/144.webp",
+    "chinese": "说书人杖",
+    "japanese": "語り部の杖",
+    "english": "Storyteller's Staff"
+  },
+  {
+    "id": "13080000",
+    "icon": "weapon3/145.webp",
+    "chinese": "托钵杖",
+    "japanese": "托鉢の杖",
+    "english": "Mendicant's Staff"
+  },
+  {
+    "id": "13100000",
+    "icon": "weapon3/146.webp",
+    "chinese": "蛆人杖",
+    "japanese": "蛆人の杖",
+    "english": "Man-grub's Staff"
+  },
+  {
+    "id": "13110000",
+    "icon": "weapon3/147.webp",
+    "chinese": "大主教的大杖",
+    "japanese": "大主教の大杖",
+    "english": "Archdeacon's Great Staff"
+  },
+  {
+    "id": "13120000",
+    "icon": "weapon3/148.webp",
+    "chinese": "金枝杖枪",
+    "japanese": "金枝の杖槍",
+    "english": "Golden Ritual Spear"
+  },
+  {
+    "id": "13140000",
+    "icon": "weapon3/149.webp",
+    "chinese": "幽儿希卡圣铃",
+    "japanese": "ヨルシカの聖鈴",
+    "english": "Yorshka's Chime"
+  },
+  {
+    "id": "13160000",
+    "icon": "weapon3/150.webp",
+    "chinese": "老者结晶杖",
+    "japanese": "古老の結晶杖",
+    "english": "Sage's Crystal Staff"
+  },
+  {
+    "id": "13170000",
+    "icon": "weapon3/151.webp",
+    "chinese": "异端杖",
+    "japanese": "異端の杖",
+    "english": "Heretic's Staff"
+  },
+  {
+    "id": "13180000",
+    "icon": "weapon3/152.webp",
+    "chinese": "宫廷魔法师杖",
+    "japanese": "宮廷魔術師の杖",
+    "english": "Court Sorcerer's Staff"
+  },
+  {
+    "id": "13190000",
+    "icon": "weapon3/153.webp",
+    "chinese": "妖树枝条",
+    "japanese": "妖木の枝",
+    "english": "Witchtree Branch"
+  },
+  {
+    "id": "13200000",
+    "icon": "weapon3/154.webp",
+    "chinese": "伊札里斯杖",
+    "japanese": "イザリスの杖",
+    "english": "Izalith Staff"
+  },
+  {
+    "id": "13210000",
+    "icon": "weapon3/155.webp",
+    "chinese": "圣职圣铃",
+    "japanese": "聖職の聖鈴",
+    "english": "Cleric's Sacred Chime"
+  },
+  {
+    "id": "13220000",
+    "icon": "weapon3/156.webp",
+    "chinese": "祭司圣铃",
+    "japanese": "祭司の聖鈴",
+    "english": "Priest's Chime"
+  },
+  {
+    "id": "13230000",
+    "icon": "weapon3/157.webp",
+    "chinese": "神木铃草",
+    "japanese": "聖木の鈴草",
+    "english": "Saint-tree Bellvine"
+  },
+  {
+    "id": "13240000",
+    "icon": "weapon3/158.webp",
+    "chinese": "夸特铃铛",
+    "japanese": "クァトの鈴",
+    "english": "Caitha's Chime"
+  },
+  {
+    "id": "13250000",
+    "icon": "weapon3/159.webp",
+    "chinese": "结晶圣铃",
+    "japanese": "結晶の聖鈴",
+    "english": "Crystal Chime"
+  },
+  {
+    "id": "13260000",
+    "icon": "weapon3/160.webp",
+    "chinese": "太阳护符",
+    "japanese": "太陽のタリスマン",
+    "english": "Sunlight Talisman"
+  },
+  {
+    "id": "13270000",
+    "icon": "weapon3/161.webp",
+    "chinese": "粗布护符",
+    "japanese": "粗布のタリスマン",
+    "english": "Canvas Talisman"
+  },
+  {
+    "id": "13280000",
+    "icon": "weapon3/162.webp",
+    "chinese": "薄暮护符",
+    "japanese": "薄暮のタリスマン",
+    "english": "Sunless Talisman"
+  },
+  {
+    "id": "13290000",
+    "icon": "weapon3/163.webp",
+    "chinese": "圣女护符",
+    "japanese": "聖女のタリスマン",
+    "english": "Saint's Talisman"
+  },
+  {
+    "id": "13300000",
+    "icon": "weapon3/164.webp",
+    "chinese": "白发护符",
+    "japanese": "白髪のタリスマン",
+    "english": "White Hair Talisman"
+  },
+  {
+    "id": "13400000",
+    "icon": "weapon3/165.webp",
+    "chinese": "咒术之火",
+    "japanese": "呪術の火",
+    "english": "Pyromancy Flame"
+  },
+  {
+    "id": "13600000",
+    "icon": "weapon3/166.webp",
+    "chinese": "猎龙大弓",
+    "japanese": "竜狩りの大弓",
+    "english": "Dragonslayer Greatbow"
+  },
+  {
+    "id": "14010000",
+    "icon": "weapon3/167.webp",
+    "chinese": "短弓",
+    "japanese": "ショートボウ",
+    "english": "Short Bow"
+  },
+  {
+    "id": "14020000",
+    "icon": "weapon3/168.webp",
+    "chinese": "复合弓",
+    "japanese": "コンポジットボウ",
+    "english": "Composite Bow"
+  },
+  {
+    "id": "14040000",
+    "icon": "weapon3/169.webp",
+    "chinese": "轻弩",
+    "japanese": "ライトクロスボウ",
+    "english": "Light Crossbow"
+  },
+  {
+    "id": "14050000",
+    "icon": "weapon3/170.webp",
+    "chinese": "亚伯里斯",
+    "japanese": "アーバレスト",
+    "english": "Arbalest"
+  },
+  {
+    "id": "14060000",
+    "icon": "weapon3/171.webp",
+    "chinese": "长弓",
+    "japanese": "ロングボウ",
+    "english": "Longbow"
+  },
+  {
+    "id": "14070000",
+    "icon": "weapon3/172.webp",
+    "chinese": "龙骑兵弓",
+    "japanese": "竜騎兵の弓",
+    "english": "Dragonrider Bow"
+  },
+  {
+    "id": "14090000",
+    "icon": "weapon3/173.webp",
+    "chinese": "雅帆琳",
+    "japanese": "アヴェリン",
+    "english": "Avelyn"
+  },
+  {
+    "id": "14100000",
+    "icon": "weapon3/174.webp",
+    "chinese": "骑士弩",
+    "japanese": "騎士のクロスボウ",
+    "english": "Knight's Crossbow"
+  },
+  {
+    "id": "14110000",
+    "icon": "weapon3/175.webp",
+    "chinese": "重弩",
+    "japanese": "ヘビークロスボウ",
+    "english": "Heavy Crossbow"
+  },
+  {
+    "id": "14130000",
+    "icon": "weapon3/176.webp",
+    "chinese": "暗月长弓",
+    "japanese": "暗月の長弓",
+    "english": "Darkmoon Longbow"
+  },
+  {
+    "id": "14140000",
+    "icon": "weapon3/177.webp",
+    "chinese": "伐鬼大弓",
+    "japanese": "鬼討ちの大弓",
+    "english": "Onislayer Greatbow"
+  },
+  {
+    "id": "14150000",
+    "icon": "weapon3/178.webp",
+    "chinese": "法里斯弓",
+    "japanese": "ファリスの弓",
+    "english": "Black Bow of Pharis"
+  },
+  {
+    "id": "14170000",
+    "icon": "weapon3/179.webp",
+    "chinese": "狙击弩",
+    "japanese": "スナイパークロス",
+    "english": "Sniper Crossbow"
+  },
+  {
+    "id": "16000000",
+    "icon": "weapon3/180.webp",
+    "chinese": "佣兵对刀",
+    "japanese": "傭兵の双刀",
+    "english": "Sellsword Twinblades"
+  },
+  {
+    "id": "16020000",
+    "icon": "weapon3/181.webp",
+    "chinese": "守墓人对刀",
+    "japanese": "墓守の双刀",
+    "english": "Warden Twinblades"
+  },
+  {
+    "id": "16030000",
+    "icon": "weapon3/182.webp",
+    "chinese": "羽翼骑士断头斧",
+    "japanese": "羽の騎士の断頭斧",
+    "english": "Winged Knight Twinaxes"
+  },
+  {
+    "id": "16040000",
+    "icon": "weapon3/183.webp",
+    "chinese": "成对舞娘魔剑",
+    "japanese": "踊り子の双魔剣",
+    "english": "Dancer's Enchanted Swords"
+  },
+  {
+    "id": "16050000",
+    "icon": "weapon3/184.webp",
+    "chinese": "大柴刀",
+    "japanese": "大鉈",
+    "english": "Great Machete"
+  },
+  {
+    "id": "16060000",
+    "icon": "weapon3/185.webp",
+    "chinese": "成对山贼短刀",
+    "japanese": "山賊の双短刀",
+    "english": "Brigand Twindaggers"
+  },
+  {
+    "id": "16070000",
+    "icon": "weapon3/186.webp",
+    "chinese": "歌德希尔特对剑",
+    "japanese": "ゴットヒルトの双剣",
+    "english": "Gotthard Twinswords"
+  },
+  {
+    "id": "16090000",
+    "icon": "weapon3/187.webp",
+    "chinese": "鬼切与姥断",
+    "japanese": "鬼切と姥断",
+    "english": "Onikiri and Ubadachi"
+  },
+  {
+    "id": "16100000",
+    "icon": "weapon3/188.webp",
+    "chinese": "多兰对枪",
+    "japanese": "ドランの双槍",
+    "english": "Drang Twinspears"
+  },
+  {
+    "id": "16130000",
+    "icon": "weapon3/189.webp",
+    "chinese": "多兰对槌",
+    "japanese": "ドランの双槌",
+    "english": "Drang Hammers"
+  },
+  {
+    "id": "20000000",
+    "icon": "weapon3/190.webp",
+    "chinese": "小圆盾",
+    "japanese": "バックラー",
+    "english": "Buckler"
+  },
+  {
+    "id": "20010000",
+    "icon": "weapon3/191.webp",
+    "chinese": "小皮盾",
+    "japanese": "スモールレザーシールド",
+    "english": "Small Leather Shield"
+  },
+  {
+    "id": "20030000",
+    "icon": "weapon3/192.webp",
+    "chinese": "圆盾",
+    "japanese": "ラウンドシールド",
+    "english": "Round Shield"
+  },
+  {
+    "id": "20040000",
+    "icon": "weapon3/193.webp",
+    "chinese": "大皮盾",
+    "japanese": "ラージレザーシールド",
+    "english": "Large Leather Shield"
+  },
+  {
+    "id": "20070000",
+    "icon": "weapon3/194.webp",
+    "chinese": "霍克伍德盾",
+    "japanese": "ホークウッドの盾",
+    "english": "Hawkwood's Shield"
+  },
+  {
+    "id": "20080000",
+    "icon": "weapon3/195.webp",
+    "chinese": "铁圆盾",
+    "japanese": "鉄の円盾",
+    "english": "Iron Round Shield"
+  },
+  {
+    "id": "20110000",
+    "icon": "weapon3/196.webp",
+    "chinese": "木盾",
+    "japanese": "ウッドシールド",
+    "english": "Wooden Shield"
+  },
+  {
+    "id": "20120000",
+    "icon": "weapon3/197.webp",
+    "chinese": "鸢形盾",
+    "japanese": "カイトシールド",
+    "english": "Kite Shield"
+  },
+  {
+    "id": "20130000",
+    "icon": "weapon3/198.webp",
+    "chinese": "咕鲁腐败盾",
+    "japanese": "グルーの腐れ盾",
+    "english": "Ghru Rotshield"
+  },
+  {
+    "id": "20150000",
+    "icon": "weapon3/199.webp",
+    "chinese": "哈维尔大盾",
+    "japanese": "ハベルの大盾",
+    "english": "Havel's Greatshield"
+  },
+  {
+    "id": "20160000",
+    "icon": "weapon3/200.webp",
+    "chinese": "团牌",
+    "japanese": "ターゲットシールド",
+    "english": "Target Shield"
+  },
+  {
+    "id": "20170000",
+    "icon": "weapon3/201.webp",
+    "chinese": "鹿角圆盾",
+    "japanese": "鹿角の円盾",
+    "english": "Elkhorn Round Shield"
+  },
+  {
+    "id": "20180000",
+    "icon": "weapon3/202.webp",
+    "chinese": "战士圆盾",
+    "japanese": "戦士の円盾",
+    "english": "Warrior's Round Shield"
+  },
+  {
+    "id": "20190000",
+    "icon": "weapon3/203.webp",
+    "chinese": "孪生蛇纹圆盾",
+    "japanese": "双蛇の円盾",
+    "english": "Caduceus Round Shield"
+  },
+  {
+    "id": "20200000",
+    "icon": "weapon3/204.webp",
+    "chinese": "红白圆盾",
+    "japanese": "紅白の円盾",
+    "english": "Red and White Round Shield"
+  },
+  {
+    "id": "20210000",
+    "icon": "weapon3/205.webp",
+    "chinese": "木板盾",
+    "japanese": "木板の盾",
+    "english": "Plank Shield"
+  },
+  {
+    "id": "20220000",
+    "icon": "weapon3/206.webp",
+    "chinese": "皮盾",
+    "japanese": "レザーシールド",
+    "english": "Leather Shield"
+  },
+  {
+    "id": "20230000",
+    "icon": "weapon3/207.webp",
+    "chinese": "红圆盾",
+    "japanese": "紅の円盾",
+    "english": "Crimson Parma"
+  },
+  {
+    "id": "20240000",
+    "icon": "weapon3/208.webp",
+    "chinese": "东方铁盾",
+    "japanese": "東の鉄盾",
+    "english": "Eastern Iron Shield"
+  },
+  {
+    "id": "20250000",
+    "icon": "weapon3/209.webp",
+    "chinese": "林德盾",
+    "japanese": "リンドの盾",
+    "english": "Llewellyn Shield"
+  },
+  {
+    "id": "20270000",
+    "icon": "weapon3/210.webp",
+    "chinese": "金鹰小盾",
+    "japanese": "金鷹の小盾",
+    "english": "Golden Falcon Shield"
+  },
+  {
+    "id": "20280000",
+    "icon": "weapon3/211.webp",
+    "chinese": "圣花盾",
+    "japanese": "聖花の盾",
+    "english": "Sacred Bloom Shield"
+  },
+  {
+    "id": "20290000",
+    "icon": "weapon3/212.webp",
+    "chinese": "古龙绘大盾",
+    "japanese": "古竜画の大盾",
+    "english": "Ancient Dragon Greatshield"
+  },
+  {
+    "id": "21010000",
+    "icon": "weapon3/213.webp",
+    "chinese": "洛斯里克骑士盾",
+    "japanese": "ロスリック騎士の盾",
+    "english": "Lothric Knight Shield"
+  },
+  {
+    "id": "21040000",
+    "icon": "weapon3/214.webp",
+    "chinese": "骑士盾",
+    "japanese": "騎士の盾",
+    "english": "Knight Shield"
+  },
+  {
+    "id": "21060000",
+    "icon": "weapon3/215.webp",
+    "chinese": "教宗骑士盾",
+    "japanese": "法王騎士の盾",
+    "english": "Pontiff Knight Shield"
+  },
+  {
+    "id": "21070000",
+    "icon": "weapon3/216.webp",
+    "chinese": "卡萨斯盾",
+    "japanese": "カーサスの盾",
+    "english": "Carthus Shield"
+  },
+  {
+    "id": "21100000",
+    "icon": "weapon3/217.webp",
+    "chinese": "黑骑士盾",
+    "japanese": "黒騎士の盾",
+    "english": "Black Knight Shield"
+  },
+  {
+    "id": "21120000",
+    "icon": "weapon3/218.webp",
+    "chinese": "银骑士盾",
+    "japanese": "銀騎士の盾",
+    "english": "Silver Knight Shield"
+  },
+  {
+    "id": "21130000",
+    "icon": "weapon3/219.webp",
+    "chinese": "刺针盾",
+    "japanese": "トゲの盾",
+    "english": "Spiked Shield"
+  },
+  {
+    "id": "21140000",
+    "icon": "weapon3/220.webp",
+    "chinese": "突刺盾",
+    "japanese": "ピアスシールド",
+    "english": "Pierce Shield"
+  },
+  {
+    "id": "21150000",
+    "icon": "weapon3/221.webp",
+    "chinese": "双鸟纹木盾",
+    "japanese": "双鳥の木盾",
+    "english": "East-West Shield"
+  },
+  {
+    "id": "21160000",
+    "icon": "weapon3/222.webp",
+    "chinese": "太阳纹盾",
+    "japanese": "太陽の盾",
+    "english": "Sunlight Shield"
+  },
+  {
+    "id": "21170000",
+    "icon": "weapon3/223.webp",
+    "chinese": "图纹盾",
+    "japanese": "紋章の盾",
+    "english": "Crest Shield"
+  },
+  {
+    "id": "21180000",
+    "icon": "weapon3/224.webp",
+    "chinese": "龙图纹盾",
+    "japanese": "竜紋章の盾",
+    "english": "Dragon Crest Shield"
+  },
+  {
+    "id": "21190000",
+    "icon": "weapon3/225.webp",
+    "chinese": "蜘蛛纹盾",
+    "japanese": "蜘蛛の盾",
+    "english": "Spider Shield"
+  },
+  {
+    "id": "21200000",
+    "icon": "weapon3/226.webp",
+    "chinese": "草纹盾",
+    "japanese": "草紋の盾",
+    "english": "Grass Crest Shield"
+  },
+  {
+    "id": "21210000",
+    "icon": "weapon3/227.webp",
+    "chinese": "黄昏盾",
+    "japanese": "黄昏の盾",
+    "english": "Sunset Shield"
+  },
+  {
+    "id": "21220000",
+    "icon": "weapon3/228.webp",
+    "chinese": "金翼图纹盾",
+    "japanese": "金翼紋章の盾",
+    "english": "Golden Wing Crest Shield"
+  },
+  {
+    "id": "21230000",
+    "icon": "weapon3/229.webp",
+    "chinese": "蓝木盾",
+    "japanese": "青の木盾",
+    "english": "Blue Wooden Shield"
+  },
+  {
+    "id": "21240000",
+    "icon": "weapon3/230.webp",
+    "chinese": "银鹫鸢形盾",
+    "japanese": "銀鷲のカイトシールド",
+    "english": "Silver Eagle Kite Shield"
+  },
+  {
+    "id": "21250000",
+    "icon": "weapon3/231.webp",
+    "chinese": "石像圆盾",
+    "japanese": "石の円盾",
+    "english": "Stone Parma"
+  },
+  {
+    "id": "21260000",
+    "icon": "weapon3/232.webp",
+    "chinese": "神木图纹盾",
+    "japanese": "聖樹紋章の盾",
+    "english": "Spirit Tree Crest Shield"
+  },
+  {
+    "id": "21270000",
+    "icon": "weapon3/233.webp",
+    "chinese": "隶兽盾",
+    "japanese": "隷獣の盾",
+    "english": "Porcine Shield"
+  },
+  {
+    "id": "21280000",
+    "icon": "weapon3/234.webp",
+    "chinese": "渴望盾",
+    "japanese": "渇望の盾",
+    "english": "Shield of Want"
+  },
+  {
+    "id": "21290000",
+    "icon": "weapon3/235.webp",
+    "chinese": "战神木盾",
+    "japanese": "戦神の木盾",
+    "english": "Wargod Wooden Shield"
+  },
+  {
+    "id": "22010000",
+    "icon": "weapon3/236.webp",
+    "chinese": "洛斯里克骑士大盾",
+    "japanese": "ロスリック騎士の大盾",
+    "english": "Lothric Knight Greatshield"
+  },
+  {
+    "id": "22020000",
+    "icon": "weapon3/237.webp",
+    "chinese": "教堂骑士大盾",
+    "japanese": "聖堂騎士の大盾",
+    "english": "Cathedral Knight Greatshield"
+  },
+  {
+    "id": "22040000",
+    "icon": "weapon3/238.webp",
+    "chinese": "猎龙大盾",
+    "japanese": "竜狩りの大盾",
+    "english": "Dragonslayer Greatshield"
+  },
+  {
+    "id": "22050000",
+    "icon": "weapon3/239.webp",
+    "chinese": "呻吟盾",
+    "japanese": "呻きの盾",
+    "english": "Moaning Shield"
+  },
+  {
+    "id": "22070000",
+    "icon": "weapon3/240.webp",
+    "chinese": "尤姆大盾",
+    "japanese": "ヨームの大盾",
+    "english": "Yhorm's Greatshield"
+  },
+  {
+    "id": "22080000",
+    "icon": "weapon3/241.webp",
+    "chinese": "黑铁大盾",
+    "japanese": "黒鉄の大盾",
+    "english": "Black Iron Greatshield"
+  },
+  {
+    "id": "22090000",
+    "icon": "weapon3/242.webp",
+    "chinese": "狼骑士大盾",
+    "japanese": "狼騎士の大盾",
+    "english": "Wolf Knight's Greatshield"
+  },
+  {
+    "id": "22100000",
+    "icon": "weapon3/243.webp",
+    "chinese": "双龙大盾",
+    "japanese": "双竜の大盾",
+    "english": "Twin Dragon Greatshield"
+  },
+  {
+    "id": "22110000",
+    "icon": "weapon3/244.webp",
+    "chinese": "荣誉大盾",
+    "japanese": "栄誉の大盾",
+    "english": "Greatshield of Glory"
+  },
+  {
+    "id": "22120000",
+    "icon": "weapon3/245.webp",
+    "chinese": "抗咒大盾",
+    "japanese": "抗呪の大盾",
+    "english": "Curse Ward Greatshield"
+  },
+  {
+    "id": "22130000",
+    "icon": "weapon3/246.webp",
+    "chinese": "骸骨车轮盾",
+    "japanese": "骸骨車輪の盾",
+    "english": "Bonewheel Shield"
+  },
+  {
+    "id": "22140000",
+    "icon": "weapon3/247.webp",
+    "chinese": "石制大盾",
+    "japanese": "石の大盾",
+    "english": "Stone Greatshield"
+  },
+  {
+    "id": "23000000",
+    "icon": "weapon3/248.webp",
+    "chinese": "火把",
+    "japanese": "松明",
+    "english": "Torch"
+  },
+  {
+    "id": "2240000",
+    "icon": "weapon3/249.webp",
+    "chinese": "缟玛瑙刃剑",
+    "japanese": "オーニクスブレード",
+    "english": "Onyx Blade"
+  },
+  {
+    "id": "4120000",
+    "icon": "weapon3/250.webp",
+    "chinese": "幽魂军刀",
+    "japanese": "幽鬼のサーベル",
+    "english": "Follower Sabre"
+  },
+  {
+    "id": "7170000",
+    "icon": "weapon3/251.webp",
+    "chinese": "米尔伍德战斧",
+    "japanese": "ミルウッドの戦斧",
+    "english": "Millwood Battle Axe"
+  },
+  {
+    "id": "7180000",
+    "icon": "weapon3/252.webp",
+    "chinese": "追地者",
+    "japanese": "アースシーカー",
+    "english": "Earth Seeker"
+  },
+  {
+    "id": "8310000",
+    "icon": "weapon3/253.webp",
+    "chinese": "地鸣岩槌",
+    "japanese": "地鳴りの岩石槌",
+    "english": "Quakestone Hammer"
+  },
+  {
+    "id": "9230000",
+    "icon": "weapon3/254.webp",
+    "chinese": "幽魂投枪",
+    "japanese": "幽鬼のジャベリン",
+    "english": "Follower Javelin"
+  },
+  {
+    "id": "10180000",
+    "icon": "weapon3/255.webp",
+    "chinese": "芙莉德大镰刀",
+    "japanese": "フリーデの大鎌",
+    "english": "Friede's Great Scythe"
+  },
+  {
+    "id": "11050000",
+    "icon": "weapon3/256.webp",
+    "chinese": "鸦爪",
+    "japanese": "鴉爪",
+    "english": "Crow Talons"
+  },
+  {
+    "id": "12070000",
+    "icon": "weapon3/257.webp",
+    "chinese": "艾雷德尔蔷薇",
+    "japanese": "アリアンデルの薔薇",
+    "english": "Rose of Ariandel"
+  },
+  {
+    "id": "13410000",
+    "icon": "weapon3/258.webp",
+    "chinese": "咒术送灵火",
+    "japanese": "呪術の送り火",
+    "english": "Pyromancer's Parting Flame"
+  },
+  {
+    "id": "14180000",
+    "icon": "weapon3/259.webp",
+    "chinese": "米尔伍德大弓",
+    "japanese": "ミルウッドの大弓",
+    "english": "Millwood Greatbow"
+  },
+  {
+    "id": "16140000",
+    "icon": "weapon3/260.webp",
+    "chinese": "果敢心",
+    "japanese": "ヴァローハート",
+    "english": "Valorheart"
+  },
+  {
+    "id": "16150000",
+    "icon": "weapon3/261.webp",
+    "chinese": "鸦羽",
+    "japanese": "鴉羽",
+    "english": "Crow Quills"
+  },
+  {
+    "id": "20300000",
+    "icon": "weapon3/262.webp",
+    "chinese": "幽魂盾",
+    "japanese": "幽鬼の盾",
+    "english": "Follower Shield"
+  },
+  {
+    "id": "21300000",
+    "icon": "weapon3/263.webp",
+    "chinese": "灵树盾",
+    "japanese": "霊樹の盾",
+    "english": "Ethereal Oak Shield"
+  },
+  {
+    "id": "23010000",
+    "icon": "weapon3/264.webp",
+    "chinese": "幽魂火把",
+    "japanese": "幽鬼のトーチ",
+    "english": "Follower Torch"
+  },
+  {
+    "id": "1140000",
+    "icon": "weapon3/265.webp",
+    "chinese": "蓝宝珠短剑",
+    "japanese": "藍玉の短剣",
+    "english": "Aquamarine Dagger"
+  },
+  {
+    "id": "1150000",
+    "icon": "weapon3/266.webp",
+    "chinese": "濡湿小镰刀",
+    "japanese": "湿った手鎌",
+    "english": "Murky Hand Scythe"
+  },
+  {
+    "id": "2250000",
+    "icon": "weapon3/267.webp",
+    "chinese": "环印骑士直剑",
+    "japanese": "輪の騎士の直剣",
+    "english": "Ringed Knight Straight Sword"
+  },
+  {
+    "id": "2260000",
+    "icon": "weapon3/268.webp",
+    "chinese": "盖尔大剑",
+    "japanese": "ゲールの大剣",
+    "english": "Gael's Greatsword"
+  },
+  {
+    "id": "4130000",
+    "icon": "weapon3/269.webp",
+    "chinese": "恶魔爪痕",
+    "japanese": "デーモンの爪痕",
+    "english": "Demon's Scar"
+  },
+  {
+    "id": "5060000",
+    "icon": "weapon3/270.webp",
+    "chinese": "破碎刀",
+    "japanese": "綻び刀",
+    "english": "Frayed Blade"
+  },
+  {
+    "id": "6380000",
+    "icon": "weapon3/271.webp",
+    "chinese": "哈兰得大曲剑",
+    "japanese": "ハーラルドの大曲剣",
+    "english": "Harald Curved Greatsword"
+  },
+  {
+    "id": "8320000",
+    "icon": "weapon3/272.webp",
+    "chinese": "雷多大锤",
+    "japanese": "レドの大槌",
+    "english": "Ledo's Great Hammer"
+  },
+  {
+    "id": "9240000",
+    "icon": "weapon3/273.webp",
+    "chinese": "环印骑士枪",
+    "japanese": "輪の騎士の槍",
+    "english": "Ringed Knight Spear"
+  },
+  {
+    "id": "9250000",
+    "icon": "weapon3/274.webp",
+    "chinese": "洛斯里克军旗",
+    "japanese": "ロスリックの戦旗",
+    "english": "Lothric War Banner"
+  },
+  {
+    "id": "9260000",
+    "icon": "weapon3/275.webp",
+    "chinese": "狂王磔枪",
+    "japanese": "狂王の磔",
+    "english": "Crucifix of the Mad King"
+  },
+  {
+    "id": "10170000",
+    "icon": "weapon3/276.webp",
+    "chinese": "半叶大刀",
+    "japanese": "半葉の大刀",
+    "english": "Splitleaf Greatsword"
+  },
+  {
+    "id": "13420000",
+    "icon": "weapon3/277.webp",
+    "chinese": "濡湿长柄杖",
+    "japanese": "湿った長杖",
+    "english": "Murky Longstaff"
+  },
+  {
+    "id": "13430000",
+    "icon": "weapon3/278.webp",
+    "chinese": "费莲诺尔圣铃",
+    "japanese": "フィリアノールの聖鈴",
+    "english": "Sacred Chime of Filianore"
+  },
+  {
+    "id": "13440000",
+    "icon": "weapon3/279.webp",
+    "chinese": "说客右臂",
+    "japanese": "説教者の右腕",
+    "english": "Preacher's Right Arm"
+  },
+  {
+    "id": "14120000",
+    "icon": "weapon3/280.webp",
+    "chinese": "白树弓",
+    "japanese": "白木の弓",
+    "english": "White Birch Bow"
+  },
+  {
+    "id": "14190000",
+    "icon": "weapon3/281.webp",
+    "chinese": "连射弩",
+    "japanese": "連射クロスボウ",
+    "english": "Repeating Crossbow"
+  },
+  {
+    "id": "16120000",
+    "icon": "weapon3/282.webp",
+    "chinese": "大门盾",
+    "japanese": "大扉の盾",
+    "english": "Giant Door Shield"
+  },
+  {
+    "id": "16160000",
+    "icon": "weapon3/283.webp",
+    "chinese": "环印骑士成对大剑",
+    "japanese": "輪の騎士の双大剣",
+    "english": "Ringed Knight Paired Greatswords"
+  },
+  {
+    "id": "20310000",
+    "icon": "weapon3/284.webp",
+    "chinese": "龙头盾",
+    "japanese": "竜首の盾",
+    "english": "Dragonhead Shield"
+  },
+  {
+    "id": "21310000",
+    "icon": "weapon3/285.webp",
+    "chinese": "龙头大盾",
+    "japanese": "竜首の大盾",
+    "english": "Dragonhead Greatshield"
+  },
+  {
+    "id": "400000",
+    "icon": "weapon3/286.webp",
+    "chinese": "普通箭",
+    "japanese": "普通の矢",
+    "english": "Standard Arrow"
+  },
+  {
+    "id": "400100",
+    "icon": "weapon3/287.webp",
+    "chinese": "火箭",
+    "japanese": "火矢",
+    "english": "Fire Arrow"
+  },
+  {
+    "id": "400200",
+    "icon": "weapon3/288.webp",
+    "chinese": "毒箭",
+    "japanese": "毒矢",
+    "english": "Poison Arrow"
+  },
+  {
+    "id": "400300",
+    "icon": "weapon3/289.webp",
+    "chinese": "大箭",
+    "japanese": "大きな矢",
+    "english": "Large Arrow"
+  },
+  {
+    "id": "400400",
+    "icon": "weapon3/290.webp",
+    "chinese": "羽毛箭",
+    "japanese": "羽根矢",
+    "english": "Feather Arrow"
+  },
+  {
+    "id": "400500",
+    "icon": "weapon3/291.webp",
+    "chinese": "月光箭",
+    "japanese": "月光の矢",
+    "english": "Moonlight Arrow"
+  },
+  {
+    "id": "400600",
+    "icon": "weapon3/292.webp",
+    "chinese": "木箭",
+    "japanese": "木の矢",
+    "english": "Wood Arrow"
+  },
+  {
+    "id": "400700",
+    "icon": "weapon3/293.webp",
+    "chinese": "暗箭",
+    "japanese": "闇の矢",
+    "english": "Dark Arrow"
+  },
+  {
+    "id": "402000",
+    "icon": "weapon3/294.webp",
+    "chinese": "猎龙大箭",
+    "japanese": "竜狩りの大矢",
+    "english": "Dragonslayer Greatarrow"
+  },
+  {
+    "id": "402200",
+    "icon": "weapon3/295.webp",
+    "chinese": "猎龙雷箭",
+    "japanese": "竜狩りの雷矢",
+    "english": "Dragonslayer Lightning Arrow"
+  },
+  {
+    "id": "402300",
+    "icon": "weapon3/296.webp",
+    "chinese": "伐鬼大箭",
+    "japanese": "鬼討ちの大矢",
+    "english": "Onislayer Greatarrow"
+  },
+  {
+    "id": "402400",
+    "icon": "weapon3/297.webp",
+    "chinese": "米尔伍德大箭",
+    "japanese": "ミルウッドの大矢",
+    "english": "Millwood Greatarrow"
+  },
+  {
+    "id": "404000",
+    "icon": "weapon3/298.webp",
+    "chinese": "普通弩箭",
+    "japanese": "ノーマルボルト",
+    "english": "Standard Bolt"
+  },
+  {
+    "id": "404100",
+    "icon": "weapon3/299.webp",
+    "chinese": "重弩箭",
+    "japanese": "ヘビーボルト",
+    "english": "Heavy Bolt"
+  },
+  {
+    "id": "404200",
+    "icon": "weapon3/300.webp",
+    "chinese": "狙击弩箭",
+    "japanese": "スナイパーボルト",
+    "english": "Sniper Bolt"
+  },
+  {
+    "id": "404300",
+    "icon": "weapon3/301.webp",
+    "chinese": "木弩箭",
+    "japanese": "ウッドボルト",
+    "english": "Wood Bolt"
+  },
+  {
+    "id": "404400",
+    "icon": "weapon3/302.webp",
+    "chinese": "雷弩箭",
+    "japanese": "ライトニングボルト",
+    "english": "Lightning Bolt"
+  },
+  {
+    "id": "404500",
+    "icon": "weapon3/303.webp",
+    "chinese": "破裂弩箭",
+    "japanese": "破裂ボルト",
+    "english": "Splintering Bolt"
+  },
+  {
+    "id": "404600",
+    "icon": "weapon3/304.webp",
+    "chinese": "爆裂弩箭",
+    "japanese": "爆裂ボルト",
+    "english": "Exploding Bolt"
+  }
+]

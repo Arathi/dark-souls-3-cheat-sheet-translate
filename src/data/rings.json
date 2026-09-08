@@ -1,0 +1,499 @@
+[
+  {
+    "id": "20000",
+    "icon": "ring3/0.webp",
+    "chinese": "生命戒指",
+    "japanese": "生命の指輪",
+    "english": "Life Ring"
+  },
+  {
+    "id": "20010",
+    "icon": "ring3/1.webp",
+    "chinese": "绿花戒指",
+    "japanese": "緑花の指輪",
+    "english": "Chloranthy Ring"
+  },
+  {
+    "id": "20020",
+    "icon": "ring3/2.webp",
+    "chinese": "哈维尔戒指",
+    "japanese": "ハベルの指輪",
+    "english": "Havel's Ring"
+  },
+  {
+    "id": "20030",
+    "icon": "ring3/3.webp",
+    "chinese": "宠爱戒指",
+    "japanese": "寵愛の指輪",
+    "english": "Ring of Favor"
+  },
+  {
+    "id": "20040",
+    "icon": "ring3/4.webp",
+    "chinese": "钢铁庇佑戒指",
+    "japanese": "鉄の加護の指輪",
+    "english": "Ring of Steel Protection"
+  },
+  {
+    "id": "20050",
+    "icon": "ring3/5.webp",
+    "chinese": "火方石戒指",
+    "japanese": "炎方石の指輪",
+    "english": "Flame Stoneplate Ring"
+  },
+  {
+    "id": "20060",
+    "icon": "ring3/6.webp",
+    "chinese": "雷方石戒指",
+    "japanese": "雷方石の指輪",
+    "english": "Thunder Stoneplate Ring"
+  },
+  {
+    "id": "20070",
+    "icon": "ring3/7.webp",
+    "chinese": "魔力方石戒指",
+    "japanese": "魔力方石の指輪",
+    "english": "Magic Stoneplate Ring"
+  },
+  {
+    "id": "20080",
+    "icon": "ring3/8.webp",
+    "chinese": "暗方石戒指",
+    "japanese": "闇方石の指輪",
+    "english": "Dark Stoneplate Ring"
+  },
+  {
+    "id": "20090",
+    "icon": "ring3/9.webp",
+    "chinese": "斑方石戒指",
+    "japanese": "斑方石の指輪",
+    "english": "Speckled Stoneplate Ring"
+  },
+  {
+    "id": "20100",
+    "icon": "ring3/10.webp",
+    "chinese": "咬血戒指",
+    "japanese": "血咬みの指輪",
+    "english": "Bloodbite Ring"
+  },
+  {
+    "id": "20110",
+    "icon": "ring3/11.webp",
+    "chinese": "咬毒戒指",
+    "japanese": "毒咬みの指輪",
+    "english": "Poisonbite Ring"
+  },
+  {
+    "id": "20120",
+    "icon": "ring3/12.webp",
+    "chinese": "咬咒戒指",
+    "japanese": "呪い咬みの指輪",
+    "english": "Cursebite Ring"
+  },
+  {
+    "id": "20130",
+    "icon": "ring3/13.webp",
+    "chinese": "咬人戒指",
+    "japanese": "人咬みの指輪",
+    "english": "Fleshbite Ring"
+  },
+  {
+    "id": "20140",
+    "icon": "ring3/14.webp",
+    "chinese": "木纹戒指",
+    "japanese": "木目の指輪",
+    "english": "Wood Grain Ring"
+  },
+  {
+    "id": "20150",
+    "icon": "ring3/15.webp",
+    "chinese": "贤者戒指",
+    "japanese": "賢者の指輪",
+    "english": "Scholar Ring"
+  },
+  {
+    "id": "20160",
+    "icon": "ring3/16.webp",
+    "chinese": "主祭戒指",
+    "japanese": "祭儀長の指輪",
+    "english": "Priestess Ring"
+  },
+  {
+    "id": "20170",
+    "icon": "ring3/17.webp",
+    "chinese": "红泪石戒指",
+    "japanese": "赤い涙石の指輪",
+    "english": "Red Tearstone Ring"
+  },
+  {
+    "id": "20180",
+    "icon": "ring3/18.webp",
+    "chinese": "蓝泪石戒指",
+    "japanese": "青い涙石の指輪",
+    "english": "Blue Tearstone Ring"
+  },
+  {
+    "id": "20190",
+    "icon": "ring3/19.webp",
+    "chinese": "狼戒指",
+    "japanese": "狼の指輪",
+    "english": "Wolf Ring"
+  },
+  {
+    "id": "20200",
+    "icon": "ring3/20.webp",
+    "chinese": "狮子戒指",
+    "japanese": "獅子の指輪",
+    "english": "Leo Ring"
+  },
+  {
+    "id": "20210",
+    "icon": "ring3/21.webp",
+    "chinese": "牺牲戒指",
+    "japanese": "犠牲の指輪",
+    "english": "Ring of Sacrifice"
+  },
+  {
+    "id": "20230",
+    "icon": "ring3/22.webp",
+    "chinese": "稚嫩龙徽戒指",
+    "japanese": "幼い竜印の指輪",
+    "english": "Young Dragon Ring"
+  },
+  {
+    "id": "20231",
+    "icon": "ring3/23.webp",
+    "chinese": "狂吼龙徽戒指",
+    "japanese": "吠える竜印の指輪",
+    "english": "Bellowing Dragoncrest Ring"
+  },
+  {
+    "id": "20240",
+    "icon": "ring3/24.webp",
+    "chinese": "大沼戒指",
+    "japanese": "大沼の指輪",
+    "english": "Great Swamp Ring"
+  },
+  {
+    "id": "20241",
+    "icon": "ring3/25.webp",
+    "chinese": "魔女们的戒指",
+    "japanese": "魔女たちの指輪",
+    "english": "Witch's Ring"
+  },
+  {
+    "id": "20250",
+    "icon": "ring3/26.webp",
+    "chinese": "摩恩戒指",
+    "japanese": "モーンの指輪",
+    "english": "Morne's Ring"
+  },
+  {
+    "id": "20251",
+    "icon": "ring3/27.webp",
+    "chinese": "太阳长男戒指",
+    "japanese": "太陽の長子の指輪",
+    "english": "Ring of the Sun's First Born"
+  },
+  {
+    "id": "20270",
+    "icon": "ring3/28.webp",
+    "chinese": "伫立龙徽戒指",
+    "japanese": "佇む竜印の指輪",
+    "english": "Lingering Dragoncrest Ring"
+  },
+  {
+    "id": "20280",
+    "icon": "ring3/29.webp",
+    "chinese": "老者戒指",
+    "japanese": "古老の指輪",
+    "english": "Sage Ring"
+  },
+  {
+    "id": "20290",
+    "icon": "ring3/30.webp",
+    "chinese": "沉眠龙徽戒指",
+    "japanese": "静かに眠る竜印の指輪",
+    "english": "Slumbering Dragoncrest Ring"
+  },
+  {
+    "id": "20300",
+    "icon": "ring3/31.webp",
+    "chinese": "幽暗宝冠戒指",
+    "japanese": "宵闇の指冠",
+    "english": "Dusk Crown Ring"
+  },
+  {
+    "id": "20310",
+    "icon": "ring3/32.webp",
+    "chinese": "圣女戒指",
+    "japanese": "聖女の指輪",
+    "english": "Saint's Ring"
+  },
+  {
+    "id": "20320",
+    "icon": "ring3/33.webp",
+    "chinese": "幽邃戒指",
+    "japanese": "深みの指輪",
+    "english": "Deep Ring"
+  },
+  {
+    "id": "20330",
+    "icon": "ring3/34.webp",
+    "chinese": "暗月戒指",
+    "japanese": "暗月の指輪",
+    "english": "Darkmoon Ring"
+  },
+  {
+    "id": "20370",
+    "icon": "ring3/35.webp",
+    "chinese": "老鹰戒指",
+    "japanese": "鷹の指輪",
+    "english": "Hawk Ring"
+  },
+  {
+    "id": "20380",
+    "icon": "ring3/36.webp",
+    "chinese": "黄蜂戒指",
+    "japanese": "スズメバチの指輪",
+    "english": "Hornet Ring"
+  },
+  {
+    "id": "20390",
+    "icon": "ring3/37.webp",
+    "chinese": "贪婪金蛇戒指",
+    "japanese": "貪欲な金の蛇の指輪",
+    "english": "Covetous Gold Serpent Ring"
+  },
+  {
+    "id": "20400",
+    "icon": "ring3/38.webp",
+    "chinese": "贪婪银蛇戒指",
+    "japanese": "貪欲な銀の蛇の指輪",
+    "english": "Covetous Silver Serpent Ring"
+  },
+  {
+    "id": "20410",
+    "icon": "ring3/39.webp",
+    "chinese": "太阳公主戒指",
+    "japanese": "太陽の王女の指輪",
+    "english": "Sun Princess Ring"
+  },
+  {
+    "id": "20420",
+    "icon": "ring3/40.webp",
+    "chinese": "银猫戒指",
+    "japanese": "銀猫の指輪",
+    "english": "Silvercat Ring"
+  },
+  {
+    "id": "20430",
+    "icon": "ring3/41.webp",
+    "chinese": "头盖骨戒指",
+    "japanese": "頭蓋の指輪",
+    "english": "Skull Ring"
+  },
+  {
+    "id": "20440",
+    "icon": "ring3/42.webp",
+    "chinese": "白色伪装戒指",
+    "japanese": "白い偽りの指輪",
+    "english": "Untrue White Ring"
+  },
+  {
+    "id": "20450",
+    "icon": "ring3/43.webp",
+    "chinese": "卡萨斯乳白戒指",
+    "japanese": "カーサスの乳環",
+    "english": "Carthus Milkring"
+  },
+  {
+    "id": "20460",
+    "icon": "ring3/44.webp",
+    "chinese": "骑士戒指",
+    "japanese": "騎士の指輪",
+    "english": "Knight's Ring"
+  },
+  {
+    "id": "20470",
+    "icon": "ring3/45.webp",
+    "chinese": "猎人戒指",
+    "japanese": "狩人の指輪",
+    "english": "Hunter's Ring"
+  },
+  {
+    "id": "20480",
+    "icon": "ring3/46.webp",
+    "chinese": "猎杀骑士戒指",
+    "japanese": "騎士狩りの指輪",
+    "english": "Knight Slayer's Ring"
+  },
+  {
+    "id": "20490",
+    "icon": "ring3/47.webp",
+    "chinese": "魔力怪手戒指",
+    "japanese": "魔力の奇手の指輪",
+    "english": "Magic Clutch Ring"
+  },
+  {
+    "id": "20500",
+    "icon": "ring3/48.webp",
+    "chinese": "雷电怪手戒指",
+    "japanese": "雷の奇手の指輪",
+    "english": "Lightning Clutch Ring"
+  },
+  {
+    "id": "20510",
+    "icon": "ring3/49.webp",
+    "chinese": "火焰怪手戒指",
+    "japanese": "炎の奇手の指輪",
+    "english": "Fire Clutch Ring"
+  },
+  {
+    "id": "20520",
+    "icon": "ring3/50.webp",
+    "chinese": "暗怪手戒指",
+    "japanese": "闇の奇手の指輪",
+    "english": "Dark Clutch Ring"
+  },
+  {
+    "id": "20540",
+    "icon": "ring3/51.webp",
+    "chinese": "弗林戒指",
+    "japanese": "フリンの指輪",
+    "english": "Flynn's Ring"
+  },
+  {
+    "id": "20550",
+    "icon": "ring3/52.webp",
+    "chinese": "俘虏锁链",
+    "japanese": "虜囚の鎖",
+    "english": "Prisoner's Chain"
+  },
+  {
+    "id": "20560",
+    "icon": "ring3/53.webp",
+    "chinese": "暗色伪装戒指",
+    "japanese": "暗い偽りの指輪",
+    "english": "Untrue Dark Ring"
+  },
+  {
+    "id": "20580",
+    "icon": "ring3/54.webp",
+    "chinese": "幻肢戒指",
+    "japanese": "幻肢の指輪",
+    "english": "Obscuring Ring"
+  },
+  {
+    "id": "20590",
+    "icon": "ring3/55.webp",
+    "chinese": "邪眼戒指",
+    "japanese": "邪眼の指輪",
+    "english": "Ring of the Evil Eye"
+  },
+  {
+    "id": "20600",
+    "icon": "ring3/56.webp",
+    "chinese": "灾难戒指",
+    "japanese": "災厄の指輪",
+    "english": "Calamity Ring"
+  },
+  {
+    "id": "20610",
+    "icon": "ring3/57.webp",
+    "chinese": "法兰戒指",
+    "japanese": "ファランの指輪",
+    "english": "Farron Ring"
+  },
+  {
+    "id": "20620",
+    "icon": "ring3/58.webp",
+    "chinese": "艾尔德利奇红石",
+    "japanese": "エルドリッチの赤石",
+    "english": "Aldrich's Ruby"
+  },
+  {
+    "id": "20630",
+    "icon": "ring3/59.webp",
+    "chinese": "艾尔德利奇蓝石",
+    "japanese": "エルドリッチの青石",
+    "english": "Aldrich's Sapphire"
+  },
+  {
+    "id": "20660",
+    "icon": "ring3/60.webp",
+    "chinese": "洛伊德剑徽戒指",
+    "japanese": "ロイドの剣の指輪",
+    "english": "Lloyd's Sword Ring"
+  },
+  {
+    "id": "20670",
+    "icon": "ring3/61.webp",
+    "chinese": "洛伊德盾徽戒指",
+    "japanese": "ロイドの盾の指輪",
+    "english": "Lloyd's Shield Ring"
+  },
+  {
+    "id": "20700",
+    "icon": "ring3/62.webp",
+    "chinese": "原素戒指",
+    "japanese": "エストの指輪",
+    "english": "Estus Ring"
+  },
+  {
+    "id": "20710",
+    "icon": "ring3/63.webp",
+    "chinese": "原素灰戒指",
+    "japanese": "エストの灰指輪",
+    "english": "Ashen Estus Ring"
+  },
+  {
+    "id": "20720",
+    "icon": "ring3/64.webp",
+    "chinese": "马腿戒指",
+    "japanese": "馬脚の指輪",
+    "english": "Horsehoof Ring"
+  },
+  {
+    "id": "20730",
+    "icon": "ring3/65.webp",
+    "chinese": "卡萨斯血环",
+    "japanese": "カーサスの血環",
+    "english": "Carthus Bloodring"
+  },
+  {
+    "id": "20740",
+    "icon": "ring3/66.webp",
+    "chinese": "化生戒指",
+    "japanese": "化生の指輪",
+    "english": "Reversal Ring"
+  },
+  {
+    "id": "20750",
+    "icon": "ring3/67.webp",
+    "chinese": "教宗右眼",
+    "japanese": "法王の右眼",
+    "english": "Pontiff's Right Eye"
+  },
+  {
+    "id": "20790",
+    "icon": "ring3/68.webp",
+    "chinese": "教宗左眼",
+    "japanese": "法王の左眼",
+    "english": "Pontiff's Left Eye"
+  },
+  {
+    "id": "20830",
+    "icon": "ring3/69.webp",
+    "chinese": "龙鳞戒指",
+    "japanese": "竜鱗の指輪",
+    "english": "Dragonscale Ring"
+  },
+  {
+    "id": "21000",
+    "icon": "ring3/70.webp",
+    "chinese": "咬霜戒指",
+    "japanese": "霜咬みの指輪",
+    "english": "Chillbite Ring"
+  }
+]
