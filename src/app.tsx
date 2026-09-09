@@ -39,14 +39,17 @@ export function App() {
     translate();
   }, [language, reference]);
 
-  const additions = {
-    'lucatiel mask': '86000000',
-    'very good carving': '522',
-    'help me carving': '524',
-    'pickle pee, pump-a-rum crow': 'npc-ds3-199',
-    'hawkwood': 'npc-ds3-206',
-    'patches': 'npc-ds3-189',
-    'soul of deacons of the deep': '729',
+  const aliases = {
+    // NPC
+    'pickle pee, pump-a-rum crow': 'npc-ds3-199', // 鸟巢
+    'hawkwood': 'npc-ds3-206', // 霍克伍德
+    'patches': 'npc-ds3-189', // 帕奇
+    // 装备
+    'lucatiel mask': '86000000', // 米勒头，鲁卡提耶
+    // 物品
+    'very good carving': '522', // 人脸，不错啊
+    'help me carving': '524', // 人脸，救救我
+    'soul of deacons of the deep': '729', // 王魂，幽邃主教群
   };
 
   function initialize() {
@@ -56,7 +59,7 @@ export function App() {
       const keyword = english.toLowerCase();
       originals[keyword] = id;
     }
-    Object.assign(originals, additions);
+    Object.assign(originals, aliases);
 
     const selector = "a";
     const anchors = document.querySelectorAll<HTMLAnchorElement>(selector);
