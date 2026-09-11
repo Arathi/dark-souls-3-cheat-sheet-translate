@@ -1,0 +1,200 @@
+[
+  {
+    "id": "gesture-ds3-01",
+    "chinese": "指向前方",
+    "japanese": "前を指さす",
+    "english": "Point forward"
+  },
+  {
+    "id": "gesture-ds3-02",
+    "chinese": "向上指",
+    "japanese": "上を指さす",
+    "english": "Point up"
+  },
+  {
+    "id": "gesture-ds3-03",
+    "chinese": "向下指",
+    "japanese": "下を指さす",
+    "english": "Point down"
+  },
+  {
+    "id": "gesture-ds3-04",
+    "chinese": "挥手",
+    "japanese": "手を振る",
+    "english": "Wave"
+  },
+  {
+    "id": "gesture-ds3-05",
+    "chinese": "??招呼",
+    "japanese": "手招き",
+    "english": "Beckon"
+  },
+  {
+    "id": "gesture-ds3-06",
+    "chinese": "呼叫",
+    "japanese": "呼びかけ",
+    "english": "Call Over"
+  },
+  {
+    "id": "gesture-ds3-07",
+    "chinese": "欢迎",
+    "japanese": "歓迎",
+    "english": "Welcome"
+  },
+  {
+    "id": "gesture-ds3-08",
+    "chinese": "称赞",
+    "japanese": "賞賛",
+    "english": "Applause"
+  },
+  {
+    "id": "gesture-ds3-09",
+    "chinese": "沉静意志",
+    "japanese": "静かな意志",
+    "english": "Quiet Resolve"
+  },
+  {
+    "id": "gesture-ds3-10",
+    "chinese": "开心跳跃",
+    "japanese": "跳ねる歓喜",
+    "english": "Jump for joy"
+  },
+  {
+    "id": "gesture-ds3-11",
+    "chinese": "喜悦",
+    "japanese": "歓喜",
+    "english": "Joy"
+  },
+  {
+    "id": "gesture-ds3-12",
+    "chinese": "高举双手狂喜",
+    "japanese": "両手歓喜",
+    "english": "Rejoice"
+  },
+  {
+    "id": "gesture-ds3-13",
+    "chinese": "欢呼",
+    "japanese": "エイエイオー",
+    "english": "Hurrah!"
+  },
+  {
+    "id": "gesture-ds3-14",
+    "chinese": "赞美太阳",
+    "japanese": "太陽賛美",
+    "english": "Praise the Sun"
+  },
+  {
+    "id": "gesture-ds3-15",
+    "chinese": "致上谢意！",
+    "japanese": "感謝を！",
+    "english": "My Thanks!"
+  },
+  {
+    "id": "gesture-ds3-16",
+    "chinese": "鞠躬",
+    "japanese": "一礼",
+    "english": "Bow"
+  },
+  {
+    "id": "gesture-ds3-17",
+    "chinese": "郑重道谢",
+    "japanese": "丁寧な一礼",
+    "english": "Proper Bow"
+  },
+  {
+    "id": "gesture-ds3-18",
+    "chinese": "贵族式鞠躬",
+    "japanese": "貴人の一礼",
+    "english": "Dignified Bow"
+  },
+  {
+    "id": "gesture-ds3-19",
+    "chinese": "战前鞠躬",
+    "japanese": "開戦礼",
+    "english": "Duel Bow"
+  },
+  {
+    "id": "gesture-ds3-20",
+    "chinese": "不死队的礼仪",
+    "japanese": "不死隊の儀礼",
+    "english": "Legion Etiquette"
+  },
+  {
+    "id": "gesture-ds3-21",
+    "chinese": "暗月誓约鞠躬",
+    "japanese": "暗月の誓約礼",
+    "english": "Darkmoon Loyalty"
+  },
+  {
+    "id": "gesture-ds3-22",
+    "chinese": "以剑立誓",
+    "japanese": "剣に誓って",
+    "english": "By My Sword"
+  },
+  {
+    "id": "gesture-ds3-23",
+    "chinese": "祈祷",
+    "japanese": "祈り",
+    "english": "Prayer"
+  },
+  {
+    "id": "gesture-ds3-24",
+    "chinese": "密探",
+    "japanese": "隠密",
+    "english": "Silent Ally"
+  },
+  {
+    "id": "gesture-ds3-25",
+    "chinese": "休息",
+    "japanese": "休息",
+    "english": "Rest"
+  },
+  {
+    "id": "gesture-ds3-26",
+    "chinese": "失意",
+    "japanese": "へたり込み",
+    "english": "Collapse"
+  },
+  {
+    "id": "gesture-ds3-27",
+    "chinese": "帕奇式坐法",
+    "japanese": "パッチ座り",
+    "english": "Patches Squat"
+  },
+  {
+    "id": "gesture-ds3-28",
+    "chinese": "下跪",
+    "japanese": "土下座",
+    "english": "Prostration"
+  },
+  {
+    "id": "gesture-ds3-29",
+    "chinese": "干杯",
+    "japanese": "乾杯",
+    "english": "Toast"
+  },
+  {
+    "id": "gesture-ds3-30",
+    "chinese": "睡觉",
+    "japanese": "寝る",
+    "english": "Sleep"
+  },
+  {
+    "id": "gesture-ds3-31",
+    "chinese": "蜷曲",
+    "japanese": "丸くなる",
+    "english": "Curl Up"
+  },
+  {
+    "id": "gesture-ds3-32",
+    "chinese": "伸展四肢",
+    "japanese": "大の字",
+    "english": "Stretch Out"
+  },
+  {
+    "id": "gesture-ds3-33",
+    "chinese": "踏上古龙道路",
+    "japanese": "古竜への道",
+    "english": "Path of The Dragon"
+  }
+]

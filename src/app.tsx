@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'preact/hooks';
+import { version } from '../package.json';
 
 import NPCS from "./data/npcs.json";
 import ARMORS from "./data/armors.json";
@@ -8,6 +9,7 @@ import SPELLS from "./data/spells.json";
 import WEAPONS from "./data/weapons.json";
 import MAPS from "./data/maps.json";
 import BOSSES from "./data/bosses.json";
+import GESTURES from "./data/gestures.json";
 
 import styles from './app.module.scss';
 
@@ -26,6 +28,7 @@ export function App() {
     ...WEAPONS,
     ...MAPS,
     ...BOSSES,
+    ...GESTURES,
   ];
 
   const [language, setLanguage] = useState<Language>('english');
@@ -41,31 +44,50 @@ export function App() {
 
   const aliases = {
     // NPC
-    'pickle pee, pump-a-rum crow': 'npc-ds3-199', // 鸟巢
-    'hawkwood': 'npc-ds3-206', // 霍克伍德
-    'patches': 'npc-ds3-189', // 帕奇
+    'Orbeck Of Vinheim': 'npc-ds3-181', // 欧贝克
+    'Patches': 'npc-ds3-189', // 帕奇
+    'Pickle Pee, Pump-a-Rum Crow': 'npc-ds3-199', // 鸟巢
+    'Hawkwood': 'npc-ds3-206', // 霍克伍德
+    'Leonhard': 'npc-ds3-207', // 无名指的李奥纳德
+    'Sword Master Saber': 'npc-ds3-218', // 专家
     // 装备
     'lucatiel mask': '86000000', // 米勒头，鲁卡提耶
     // 物品
-    'very good carving': '522', // 人脸，不错啊
-    'help me carving': '524', // 人脸，救救我
-    'soul of deacons of the deep': '729', // 王魂，幽邃主教群
+    'Thank You Carving': '521', // 人脸，谢谢你
+    'Very Good Carving': '522', // 人脸，不错啊
+    'I\'m Sorry Carving': '523', // 人脸，很抱歉
+    'Help Me Carving': '524', // 人脸，救救我
+    'Soul of Deacons of the Deep': '729', // 王魂，幽邃主教群
+    'Loretta\'s bone': '2118', // 罗蕾塔的骨头
+    'Warriors of Sunlight': '10040', // 太阳战士
   };
 
   function initialize() {
     const originals: Record<string, string> = {};
     for (const item of dictionary) {
       const { id, english } = item;
-      const keyword = english.toLowerCase();
+      const keyword = english; // .toLowerCase();
       originals[keyword] = id;
     }
     Object.assign(originals, aliases);
 
-    const selector = "a";
-    const anchors = document.querySelectorAll<HTMLAnchorElement>(selector);
-    for (const anchor of anchors) {
-      const text = anchor.innerText.trim();
-      let keyword = text.toLowerCase();
+    let texts: HTMLElement[] = [];
+
+    {
+      const selector = "a";
+      const anchors = document.querySelectorAll<HTMLAnchorElement>(selector);
+      texts.push(...anchors);
+    }
+
+    {
+      const selector = "#Master_of_Expression_col span.item_content strong";
+      const strongs = document.querySelectorAll<HTMLElement>(selector);
+      texts.push(...strongs);
+    }
+
+    for (const node of texts) {
+      const text = node.innerText;
+      let keyword = text;
       let upgrade: string | null = null;
       let amount: string | null = null;
 
@@ -87,12 +109,12 @@ export function App() {
 
       const id = originals[keyword];
       if (id != null) {
-        anchor.setAttribute("data-cstr-id", id);
+        node.setAttribute("data-cstr-id", id);
         if (upgrade != null) {
-          anchor.setAttribute("data-cstr-upgrade", upgrade);
+          node.setAttribute("data-cstr-upgrade", upgrade);
         }
         if (amount != null) {
-          anchor.setAttribute("data-cstr-amount", amount);
+          node.setAttribute("data-cstr-amount", amount);
         }
       }
     }
@@ -100,7 +122,7 @@ export function App() {
   }
 
   function translate() {
-    const selector = "a[data-cstr-id]";
+    const selector = "[data-cstr-id]";
     const anchors = document.querySelectorAll<HTMLAnchorElement>(selector);
     for (const anchor of anchors) {
       const id = anchor.getAttribute("data-cstr-id");
@@ -108,10 +130,12 @@ export function App() {
       const amount = anchor.getAttribute("data-cstr-amount");
       const item = dictionary.find((it) => it.id == id);
       if (item != null) {
-        const name = item[language];
+        let name = item[language];
+        if (name.startsWith("??")) name = name.substring(2);
         let text = `${name}${upgrade}`;
         if (reference != null) {
-          const name = item[reference];
+          let name = item[reference];
+          if (name.startsWith("??")) name = name.substring(2);
           text += ` (${name}${upgrade})`;
         }
         if (amount != null) {
@@ -125,8 +149,8 @@ export function App() {
 
   return (
     <div className={styles.app}>
-      <div className={styles.header}>
-        <span>Dark Souls III Cheat Sheet Translate</span>
+      <div className={styles.version}>
+        <span>v{version}</span>
       </div>
       <div className={styles.item}>
         <span>主要语言</span>
@@ -149,7 +173,10 @@ export function App() {
           value={reference ?? ""}
           style={{ flex: 1 }}
           onChange={(event) => {
-            const language = event.currentTarget.value ?? null;
+            let language: string | null = event.currentTarget.value ?? null;
+            if (language == "") {
+              language = null;
+            }
             setReference(language as Language | null);
           }}
         >

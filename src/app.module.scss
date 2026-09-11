@@ -7,8 +7,7 @@
   border: 1px solid #E7E7E7;
   background-color: #F8F8F8;
   border-radius: 8px;
-  width: 300px;
-  // height: 300px;
+  width: 160px;
   z-index: 999;
 
   display: flex;
@@ -21,6 +20,13 @@
   flex-direction: row;
   justify-content: center;
   font-weight: bold;
+}
+
+.version {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  color: gray;
 }
 
 .item {
